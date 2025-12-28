@@ -187,6 +187,41 @@
             box-shadow: 0 0 20px var(--accent-azure-glow);
         }
 
+        .bookmark-jump {
+            background: var(--ink-medium);
+            border: 1px solid var(--ink-subtle);
+            padding: 14px 28px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: var(--text-primary);
+            font-family: 'Crimson Pro', serif;
+            font-size: 1rem;
+        }
+
+        .bookmark-jump::before {
+            content: '🔖';
+            font-size: 1.1rem;
+        }
+
+        .bookmark-jump:hover {
+            border-color: var(--gold-antique);
+            box-shadow: 0 0 20px var(--gold-soft);
+        }
+
+        .bookmark-jump:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .bookmark-jump:disabled:hover {
+            border-color: var(--ink-subtle);
+            box-shadow: none;
+        }
+
         .vocab-count {
             background: var(--accent-azure);
             color: var(--ink-deep);
@@ -369,6 +404,51 @@
 
         .paragraph-pair:hover {
             background: var(--ink-light);
+        }
+
+        /* Bookmark button */
+        .bookmark-btn {
+            position: absolute;
+            top: 12px;
+            left: 12px;
+            background: transparent;
+            border: 1px solid transparent;
+            color: var(--text-muted);
+            cursor: pointer;
+            padding: 6px 10px;
+            border-radius: 4px;
+            font-size: 1rem;
+            opacity: 0;
+            transition: all 0.3s ease;
+            z-index: 10;
+        }
+
+        .paragraph-pair:hover .bookmark-btn {
+            opacity: 0.6;
+        }
+
+        .bookmark-btn:hover {
+            opacity: 1 !important;
+            background: var(--ink-subtle);
+            border-color: var(--gold-antique);
+            color: var(--gold-antique);
+        }
+
+        .paragraph-pair.bookmarked .bookmark-btn {
+            opacity: 1;
+            color: var(--gold-bright);
+        }
+
+        .paragraph-pair.bookmarked {
+            box-shadow: inset 4px 0 0 var(--gold-antique);
+        }
+
+        .paragraph-pair.bookmarked .urdu {
+            background: linear-gradient(135deg, rgba(201, 169, 98, 0.12) 0%, transparent 100%);
+        }
+
+        .headline .bookmark-btn {
+            display: none;
         }
 
         .paragraph-pair > div {
@@ -589,7 +669,7 @@
     <div class="container">
         <header>
             <h1>Urdu Reader</h1>
-            <p class="instructions">Click a word to see its translation <span>•</span> Double-click to save vocabulary</p>
+            <p class="instructions">Click a word to see its translation <span>•</span> Double-click to save <span>•</span> 🔖 to bookmark</p>
         </header>
 
         <div class="controls">
@@ -603,6 +683,10 @@
                 <span>Saved Words</span>
                 <span class="vocab-count" id="vocab-count">0</span>
             </div>
+
+            <button class="bookmark-jump" id="bookmark-jump" onclick="jumpToBookmark()" disabled>
+                <span>Jump to Bookmark</span>
+            </button>
         </div>
 
         <div class="saved-vocab-panel" id="vocab-panel">
@@ -620,6 +704,8 @@
 
     <script>
         const STORAGE_KEY = 'urdu-reader-vocab';
+        const BOOKMARK_KEY = 'urdu-reader-bookmarks';
+        let currentArticleId = 'myanmar';
 
         // Article data
         const articles = {
@@ -906,7 +992,9 @@
             const article = articles[articleId];
             if (!article) return;
 
+            currentArticleId = articleId;
             const container = document.getElementById('article-content');
+            const bookmarkedIndex = getBookmark(articleId);
 
             // Build HTML
             let html = `
@@ -924,8 +1012,10 @@
 
             article.paragraphs.forEach((para, index) => {
                 const delay = (index + 1) * 60; // Staggered animation
+                const isBookmarked = index === bookmarkedIndex;
                 html += `
-                    <div class="paragraph-pair" style="animation-delay: ${delay}ms">
+                    <div class="paragraph-pair${isBookmarked ? ' bookmarked' : ''}" data-para-index="${index}" style="animation-delay: ${delay}ms">
+                        <button class="bookmark-btn" onclick="toggleBookmark(${index})" title="Bookmark this paragraph">🔖</button>
                         <div class="urdu">${para.urdu}</div>
                         <div class="english">${para.english}</div>
                     </div>
@@ -936,6 +1026,14 @@
 
             // Reattach event listeners
             attachWordListeners();
+            updateBookmarkButton();
+
+            // Auto-scroll to bookmark after animations settle
+            if (bookmarkedIndex !== null) {
+                setTimeout(() => {
+                    jumpToBookmark();
+                }, 500);
+            }
         }
 
         // Attach click/dblclick listeners to words
@@ -1046,6 +1144,71 @@
                 });
             }
         });
+
+        // Bookmark functions
+        function getBookmarks() {
+            const stored = localStorage.getItem(BOOKMARK_KEY);
+            return stored ? JSON.parse(stored) : {};
+        }
+
+        function getBookmark(articleId) {
+            const bookmarks = getBookmarks();
+            return bookmarks[articleId] !== undefined ? bookmarks[articleId] : null;
+        }
+
+        function setBookmark(articleId, paragraphIndex) {
+            const bookmarks = getBookmarks();
+            if (paragraphIndex === null) {
+                delete bookmarks[articleId];
+            } else {
+                bookmarks[articleId] = paragraphIndex;
+            }
+            localStorage.setItem(BOOKMARK_KEY, JSON.stringify(bookmarks));
+            updateBookmarkButton();
+        }
+
+        function toggleBookmark(paragraphIndex) {
+            const currentBookmark = getBookmark(currentArticleId);
+
+            // Remove existing bookmark styling
+            document.querySelectorAll('.paragraph-pair.bookmarked').forEach(el => {
+                el.classList.remove('bookmarked');
+            });
+
+            if (currentBookmark === paragraphIndex) {
+                // Clicking same paragraph - remove bookmark
+                setBookmark(currentArticleId, null);
+            } else {
+                // Set new bookmark
+                setBookmark(currentArticleId, paragraphIndex);
+                const para = document.querySelector(`.paragraph-pair[data-para-index="${paragraphIndex}"]`);
+                if (para) {
+                    para.classList.add('bookmarked');
+                }
+            }
+        }
+
+        function jumpToBookmark() {
+            const bookmarkedIndex = getBookmark(currentArticleId);
+            if (bookmarkedIndex === null) return;
+
+            const para = document.querySelector(`.paragraph-pair[data-para-index="${bookmarkedIndex}"]`);
+            if (para) {
+                para.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                // Flash effect
+                para.style.transition = 'box-shadow 0.3s ease';
+                para.style.boxShadow = 'inset 4px 0 0 var(--gold-antique), 0 0 30px var(--gold-glow)';
+                setTimeout(() => {
+                    para.style.boxShadow = 'inset 4px 0 0 var(--gold-antique)';
+                }, 800);
+            }
+        }
+
+        function updateBookmarkButton() {
+            const btn = document.getElementById('bookmark-jump');
+            const hasBookmark = getBookmark(currentArticleId) !== null;
+            btn.disabled = !hasBookmark;
+        }
 
         // Initialize
         updateVocabCount();
