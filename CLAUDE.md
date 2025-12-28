@@ -92,16 +92,34 @@ Prioritize:
 
 See `process.md` for complete workflow with code snippets.
 
+## Deployment
+
+**GitHub Repo**: https://github.com/tamborine996/urdu-reader
+**Live Site**: https://tamborine996.github.io/urdu-reader/
+**Git Root**: `C:\Users\mqc20\Downloads\Projects\Urdu-Reader`
+
+Deploy changes:
+```bash
+cd "C:\Users\mqc20\Downloads\Projects\Urdu-Reader"
+git add -A && git commit -m "Update" && git push
+```
+
 ## Architecture Decisions
 
 - **Single HTML file**: No build process, easy to edit
 - **No framework**: Vanilla JS for simplicity
 - **External font**: Noto Nastaliq Urdu from Google Fonts
-- **Dark theme**: Easier on eyes for reading practice
+- **Dark theme ("Manuscript Luminance")**: Antique gold accents, paper grain texture
+- **Article data in JS objects**: Easy to add new articles
+
+## Current Articles
+
+1. **Myanmar Elections** (میانمار الیکشن) - 22 paragraphs
+2. **School Punishment** (سکول میں سزا) - 17 paragraphs
+3. **Brothers Reunited** (بھائیوں کی ملاقات) - 25 paragraphs
 
 ## Future Enhancements (Someday)
 
-- Multiple article support (article selector)
 - Audio pronunciation for vocabulary
 - Spaced repetition for learned words
 - Progress tracking
