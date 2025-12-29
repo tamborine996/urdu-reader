@@ -663,6 +663,130 @@
             opacity: 0.4;
             letter-spacing: 0.5em;
         }
+
+        /* Mobile responsive - stack vertically */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 15px;
+            }
+
+            h1 {
+                font-size: 1.6rem;
+                letter-spacing: 0.1em;
+            }
+
+            h1::before, h1::after {
+                width: 30px;
+            }
+
+            header::before, header::after {
+                display: none;
+            }
+
+            .instructions {
+                font-size: 0.85rem;
+            }
+
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 12px;
+            }
+
+            .article-selector {
+                min-width: auto;
+                width: 100%;
+            }
+
+            .saved-vocab-toggle,
+            .bookmark-jump {
+                justify-content: center;
+            }
+
+            /* Stack paragraphs vertically */
+            .paragraph-pair {
+                grid-template-columns: 1fr;
+            }
+
+            .paragraph-pair > div {
+                padding: 20px;
+            }
+
+            /* Urdu on top with bottom border instead of right */
+            .urdu {
+                font-size: 1.3rem;
+                line-height: 2.2;
+                border-right: none;
+                border-bottom: 2px solid var(--gold-antique);
+            }
+
+            .urdu::before {
+                top: 8px;
+                right: 8px;
+                width: 15px;
+                height: 15px;
+            }
+
+            /* English below */
+            .english {
+                font-size: 1rem;
+                line-height: 1.7;
+            }
+
+            .english::after {
+                bottom: 8px;
+                left: 8px;
+                width: 15px;
+                height: 15px;
+            }
+
+            /* Bookmark button always visible on mobile (no hover) */
+            .bookmark-btn {
+                opacity: 0.5;
+                top: 8px;
+                left: 8px;
+                padding: 4px 8px;
+                font-size: 0.9rem;
+            }
+
+            .paragraph-pair.bookmarked .bookmark-btn {
+                opacity: 1;
+            }
+
+            /* Bookmarked state - top border on mobile */
+            .paragraph-pair.bookmarked {
+                box-shadow: inset 0 4px 0 var(--gold-antique);
+            }
+
+            /* Vocab panel adjustments */
+            .saved-vocab-panel {
+                padding: 20px;
+            }
+
+            .vocab-item {
+                padding: 10px 14px;
+                gap: 10px;
+            }
+
+            .vocab-item .urdu-word {
+                font-size: 1.1rem;
+            }
+        }
+
+        /* Extra small screens */
+        @media (max-width: 400px) {
+            .urdu {
+                font-size: 1.15rem;
+            }
+
+            .english {
+                font-size: 0.95rem;
+            }
+
+            .paragraph-pair > div {
+                padding: 16px;
+            }
+        }
     </style>
 </head>
 <body>
