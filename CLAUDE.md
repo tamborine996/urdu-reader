@@ -4,26 +4,27 @@
 
 **Purpose**: Side-by-side Urdu/English reading practice tool for language learning
 **Created**: 2025-12-28
-**Source**: BBC Urdu articles translated by Claude
+**Source**: BBC Urdu articles + fairy tales translated by Claude
 
 ## How It Works
 
-1. Fetch an Urdu article (e.g., from BBC Urdu)
-2. Claude translates and structures it paragraph-by-paragraph
-3. Key vocabulary words are tagged for cross-highlighting
-4. User reads Urdu, clicks words to see English equivalent highlighted
+1. Articles stored as JSON files in `articles/` folder
+2. Each article has a vocabulary mapping (Urdu word → English translation)
+3. JavaScript dynamically wraps vocabulary words with clickable spans
+4. User clicks words to see English equivalent highlighted in same paragraph
 
 ## Key Features
 
 ### Click-to-Highlight (Paragraph-Scoped)
-- Words wrapped in `<span class="word" data-word="key">` in both languages
+- Vocabulary words wrapped dynamically via `wrapVocabulary()` function
 - Clicking a word highlights its translation **within the same paragraph only**
 - Works bidirectionally (Urdu → English, English → Urdu)
+- Visual indicator: dotted gold underline shows clickable words
 
 ### Save Vocabulary (localStorage)
 - **Double-click** any word to save it to your vocabulary list
 - Saved words persist across browser sessions and different articles
-- Click "📚 Saved Words" to view/manage saved vocabulary
+- Click "Saved Words" to view/manage saved vocabulary
 - Storage key: `urdu-reader-vocab`
 
 ## Running the App
@@ -39,58 +40,69 @@ python -m http.server 3004
 "C:\Users\mqc20\AppData\Local\Programs\Python\Python313\python.exe" -m http.server 3004 --directory "C:\Users\mqc20\Downloads\Projects\Urdu-Reader"
 ```
 
-**Note**: Port 3003 is reserved for Life Dashboard. Use 3004 for Urdu Reader.
-
-## Files
+## File Structure
 
 ```
 Urdu-Reader/
-├── index.html    # Main app (single-file, self-contained)
-├── process.md    # Detailed article creation workflow
-└── CLAUDE.md     # This file
+├── index.html           # Main app
+├── articles/            # JSON article files
+│   ├── myanmar.json     # Myanmar Elections (~130 vocab)
+│   ├── school.json      # School Punishment (~95 vocab)
+│   ├── brothers.json    # Brothers Reunited (~90 vocab)
+│   └── lion-mouse.json  # The Lion and the Mouse (~100 vocab)
+├── CLAUDE.md            # This file
+└── README.md            # User documentation
 ```
 
 ## Adding New Articles
 
-**Time estimate**: ~25-30 minutes per article
+### Step 1: Create JSON File
 
-### Step 1: Extract Article
-1. Navigate to `bbc.com/urdu` in Chrome
-2. Use `mcp__claude-in-chrome__get_page_text` to extract raw text
-3. Clean out navigation, "Most Read" sections, related links
+Create `articles/your-article.json`:
 
-### Step 2: Translate
-- Claude translates paragraph-by-paragraph
-- Preserve 1:1 paragraph mapping (Urdu paragraph → English paragraph)
-- Natural English, not word-for-word
-
-**Prompt pattern**:
-> "Translate this BBC Urdu article paragraph by paragraph. Provide natural English translations that preserve the journalistic tone."
-
-### Step 3: Tag Vocabulary (80-120 words)
-Prioritize:
-- High-frequency news words: حکومت (government), انتخابات (elections)
-- Numbers and dates
-- Proper nouns (countries, organizations)
-- Words appearing multiple times
-
-### Step 4: Build HTML
-```html
-<div class="paragraph-pair">
-    <div class="urdu">[text with <span class="word" data-word="key">...]</div>
-    <div class="english">[text with <span class="word" data-word="key">...]</div>
-</div>
+```json
+{
+  "id": "your-article",
+  "category": "news",
+  "title": {
+    "urdu": "عنوان",
+    "english": "Title"
+  },
+  "vocabulary": {
+    "اردو لفظ": "english word",
+    "حکومت": "government"
+  },
+  "paragraphs": [
+    {
+      "urdu": "اردو پیراگراف...",
+      "english": "English paragraph..."
+    }
+  ]
+}
 ```
 
-**Critical**: `data-word` must match between Urdu and English for same vocabulary item.
+### Step 2: Add to Dropdown
 
-### Quality Tips
-- Don't over-tag (80-120 words is plenty)
-- Tag ALL instances of repeated words
-- Use hyphens for phrases: `data-word="civil-war"` for خانہ جنگی
-- Test highlighting to verify pairs are correctly linked
+In `index.html`, add option to `<select id="article-selector">`:
 
-See `process.md` for complete workflow with code snippets.
+```html
+<option value="your-article">اردو نام — English Name</option>
+```
+
+### Step 3: Add to Available Articles Array
+
+In `index.html`, update the `availableArticles` array:
+
+```javascript
+const availableArticles = ['myanmar', 'school', 'brothers', 'lion-mouse', 'your-article'];
+```
+
+### Vocabulary Guidelines
+
+- **90-130 words** per article is ideal
+- Include word variants: `بچہ` (child), `بچے` (children), `بچوں` (of children)
+- Sort by length happens automatically (longer phrases matched first)
+- Keys are generated from English: "civil war" → `data-word="civil-war"`
 
 ## Deployment
 
@@ -104,19 +116,29 @@ cd "C:\Users\mqc20\Downloads\Projects\Urdu-Reader"
 git add -A && git commit -m "Update" && git push
 ```
 
-## Architecture Decisions
+## Architecture
 
-- **Single HTML file**: No build process, easy to edit
-- **No framework**: Vanilla JS for simplicity
-- **External font**: Noto Nastaliq Urdu from Google Fonts
-- **Dark theme ("Manuscript Luminance")**: Antique gold accents, paper grain texture
-- **Article data in JS objects**: Easy to add new articles
+### JSON-Based Storage (2025-12-30 Refactor)
+- **Before**: Articles stored as inline HTML with pre-wrapped `<span>` tags
+- **After**: Clean JSON with vocabulary mappings, spans generated at runtime
+- **Benefits**: Scalable, easier to add articles, comprehensive vocabulary coverage
+
+### Key Functions
+- `fetchArticle(id)` - Loads and caches JSON from `articles/` folder
+- `wrapVocabulary(text, vocab, isUrdu)` - Wraps matching words with spans
+- `loadArticle(id)` - Renders article with dynamic vocabulary wrapping
+
+### Visual Design
+- **Theme**: "Manuscript Luminance" - dark with antique gold accents
+- **Font**: Noto Nastaliq Urdu (Google Fonts)
+- **Indicators**: Dotted underlines show clickable vocabulary words
 
 ## Current Articles
 
-1. **Myanmar Elections** (میانمار الیکشن) - 22 paragraphs
-2. **School Punishment** (سکول میں سزا) - 17 paragraphs
-3. **Brothers Reunited** (بھائیوں کی ملاقات) - 25 paragraphs
+1. **Myanmar Elections** (میانمار الیکشن) - 22 paragraphs, ~130 vocab
+2. **School Punishment** (سکول میں سزا) - 17 paragraphs, ~95 vocab
+3. **Brothers Reunited** (بھائیوں کی ملاقات) - 25 paragraphs, ~90 vocab
+4. **The Lion and the Mouse** (شیر اور چوہا) - 17 paragraphs, ~100 vocab (fairy tale)
 
 ## Future Enhancements (Someday)
 
