@@ -1,0 +1,198 @@
+{
+  "id": "lion-mouse",
+  "category": "fairy-tale",
+  "title": {
+    "urdu": "شیر اور چوہا: ایک قدیم کہانی",
+    "english": "The Lion and the Mouse: An Ancient Tale"
+  },
+  "vocabulary": {
+    "شیر": "lion",
+    "چوہا": "mouse",
+    "قدیم": "ancient",
+    "کہانی": "story",
+    "جنگل": "jungle/forest",
+    "بادشاہ": "king",
+    "جانور": "animal",
+    "جانوروں": "animals",
+    "طاقتور": "powerful",
+    "بڑا": "big",
+    "بڑے": "big",
+    "چھوٹا": "small",
+    "چھوٹے": "small",
+    "ایک دن": "one day",
+    "دن": "day",
+    "سویا": "sleeping",
+    "سو رہا تھا": "was sleeping",
+    "نیند": "sleep",
+    "درخت": "tree",
+    "سایہ": "shade/shadow",
+    "آرام": "rest/comfort",
+    "کھیل رہا تھا": "was playing",
+    "کھیلتا": "playing",
+    "کھیل": "game/play",
+    "غلطی": "mistake",
+    "چڑھ گیا": "climbed up",
+    "ناک": "nose",
+    "جاگ گیا": "woke up",
+    "غصہ": "anger",
+    "غصے": "angry",
+    "پکڑ لیا": "caught",
+    "پکڑا": "caught",
+    "دہاڑا": "roared",
+    "ڈر گیا": "got scared",
+    "ڈر": "fear",
+    "کانپنے لگا": "started trembling",
+    "کانپ": "tremble",
+    "معافی": "forgiveness",
+    "مانگی": "asked for",
+    "معاف کر دیں": "please forgive",
+    "چھوڑ دیں": "please release",
+    "وعدہ": "promise",
+    "مدد": "help",
+    "ایک دن": "one day",
+    "ہنسا": "laughed",
+    "ہنسنے لگا": "started laughing",
+    "سوچا": "thought",
+    "کیسے": "how",
+    "مدد کر سکتا ہے": "can help",
+    "پھر بھی": "nevertheless",
+    "رحم": "mercy",
+    "آ گیا": "came",
+    "جانے دیا": "let go",
+    "شکریہ": "thank you",
+    "کچھ دن بعد": "after some days",
+    "بعد": "after",
+    "شکاری": "hunter",
+    "شکاریوں": "hunters",
+    "آئے": "came",
+    "جال": "net/trap",
+    "پھنس گیا": "got trapped",
+    "پھنسا": "trapped",
+    "نکل نہیں سکتا تھا": "could not get out",
+    "زور": "force/strength",
+    "لگایا": "applied",
+    "کوشش": "effort/try",
+    "کامیاب": "successful",
+    "ناکام": "unsuccessful",
+    "دور": "far",
+    "قریب": "near",
+    "سنی": "heard",
+    "آواز": "voice/sound",
+    "پہچان لی": "recognized",
+    "بھاگا": "ran",
+    "بھاگ کر آیا": "came running",
+    "دیکھا": "saw",
+    "حالت": "condition",
+    "فکر نہ کریں": "don't worry",
+    "دانت": "teeth",
+    "دانتوں": "teeth",
+    "کاٹنا شروع کیا": "started cutting",
+    "کاٹ دیا": "cut",
+    "رسی": "rope",
+    "رسیاں": "ropes",
+    "آزاد": "free",
+    "ہو گیا": "became",
+    "خوش": "happy",
+    "خوشی": "happiness",
+    "شکریہ ادا کیا": "thanked",
+    "احسان": "favor/kindness",
+    "بھول": "forget",
+    "نہیں بھولوں گا": "will not forget",
+    "دوست": "friend",
+    "دوستی": "friendship",
+    "سبق": "lesson",
+    "سیکھا": "learned",
+    "کمزور": "weak",
+    "طاقت": "strength",
+    "مشکل": "difficult/problem",
+    "وقت": "time",
+    "کام آتا ہے": "comes in handy",
+    "کبھی": "ever/sometimes",
+    "نہیں": "no/not",
+    "سمجھنا": "understand",
+    "چاہیے": "should",
+    "ہر کوئی": "everyone",
+    "اہم": "important",
+    "زندگی": "life",
+    "سچ": "true",
+    "سچی": "true",
+    "محبت": "love",
+    "اچھا": "good",
+    "اچھائی": "goodness",
+    "برا": "bad",
+    "برائی": "evil",
+    "ہمیشہ": "always",
+    "یاد": "remember",
+    "رکھیں": "keep"
+  },
+  "paragraphs": [
+    {
+      "urdu": "بہت پرانے زمانے کی بات ہے۔ ایک گھنے جنگل میں ایک بڑا شیر رہتا تھا۔ وہ جنگل کا بادشاہ تھا اور سب جانور اس سے ڈرتے تھے۔",
+      "english": "This is a story from a very old time. A big lion lived in a dense jungle. He was the king of the jungle and all the animals were afraid of him."
+    },
+    {
+      "urdu": "ایک دن شیر ایک بڑے درخت کے سایہ میں آرام سے سو رہا تھا۔ اس کی نیند بہت گہری تھی۔",
+      "english": "One day the lion was sleeping comfortably in the shade of a big tree. His sleep was very deep."
+    },
+    {
+      "urdu": "اسی وقت ایک چھوٹا چوہا وہاں کھیل رہا تھا۔ کھیلتے کھیلتے وہ غلطی سے شیر کی ناک پر چڑھ گیا۔",
+      "english": "At that same time, a small mouse was playing there. While playing, he accidentally climbed onto the lion's nose."
+    },
+    {
+      "urdu": "شیر فوراً جاگ گیا۔ وہ بہت غصے میں تھا۔ اس نے چوہے کو اپنے بڑے پنجے میں پکڑ لیا اور زور سے دہاڑا۔",
+      "english": "The lion woke up immediately. He was very angry. He caught the mouse in his big paw and roared loudly."
+    },
+    {
+      "urdu": "چھوٹا چوہا بہت ڈر گیا اور کانپنے لگا۔ اس نے شیر سے معافی مانگی اور کہا: 'بادشاہ سلامت، مجھے معاف کر دیں۔ یہ میری غلطی تھی۔'",
+      "english": "The small mouse got very scared and started trembling. He asked the lion for forgiveness and said: 'Your Majesty, please forgive me. It was my mistake.'"
+    },
+    {
+      "urdu": "چوہے نے کہا: 'مجھے چھوڑ دیں۔ میں وعدہ کرتا ہوں کہ ایک دن میں آپ کی مدد ضرور کروں گا۔'",
+      "english": "The mouse said: 'Please release me. I promise that one day I will definitely help you.'"
+    },
+    {
+      "urdu": "شیر یہ سن کر ہنسنے لگا۔ اس نے سوچا کہ اتنا چھوٹا چوہا میری کیا مدد کر سکتا ہے؟ میں تو جنگل کا طاقتور بادشاہ ہوں۔",
+      "english": "Hearing this, the lion started laughing. He thought, how can such a small mouse help me? I am the powerful king of the jungle."
+    },
+    {
+      "urdu": "پھر بھی شیر کو چوہے پر رحم آ گیا اور اس نے چوہے کو جانے دیا۔ چوہے نے شکریہ ادا کیا اور خوشی سے بھاگ گیا۔",
+      "english": "Nevertheless, the lion had mercy on the mouse and let him go. The mouse thanked him and ran away happily."
+    },
+    {
+      "urdu": "کچھ دن بعد، کچھ شکاری جنگل میں آئے۔ انہوں نے ایک بڑا جال بچھایا۔ شیر اس جال میں پھنس گیا۔",
+      "english": "After some days, some hunters came to the jungle. They laid a big net. The lion got trapped in that net."
+    },
+    {
+      "urdu": "شیر نے بہت زور لگایا لیکن وہ جال سے نکل نہیں سکتا تھا۔ اس نے بہت کوشش کی لیکن ناکام رہا۔ آخر میں وہ تھک گیا اور مدد کے لیے دہاڑنے لگا۔",
+      "english": "The lion tried very hard but could not get out of the net. He made many efforts but was unsuccessful. Finally, he got tired and started roaring for help."
+    },
+    {
+      "urdu": "چھوٹے چوہے نے دور سے شیر کی آواز سنی۔ اس نے فوراً آواز پہچان لی اور بھاگ کر شیر کے پاس آیا۔",
+      "english": "The small mouse heard the lion's voice from far away. He immediately recognized the voice and came running to the lion."
+    },
+    {
+      "urdu": "چوہے نے شیر کی حالت دیکھی اور کہا: 'بادشاہ سلامت، فکر نہ کریں۔ میں آپ کی مدد کروں گا۔ میں نے وعدہ کیا تھا نا؟'",
+      "english": "The mouse saw the lion's condition and said: 'Your Majesty, don't worry. I will help you. Didn't I make a promise?'"
+    },
+    {
+      "urdu": "چوہے نے اپنے تیز دانتوں سے جال کی رسیاں کاٹنا شروع کیا۔ تھوڑی دیر میں اس نے سب رسیاں کاٹ دیں۔",
+      "english": "The mouse started cutting the ropes of the net with his sharp teeth. In a little while, he cut all the ropes."
+    },
+    {
+      "urdu": "شیر آزاد ہو گیا! وہ بہت خوش تھا۔ اس نے چوہے کا شکریہ ادا کیا اور کہا: 'میرے چھوٹے دوست، تم نے میری جان بچائی۔ میں تمہارا یہ احسان کبھی نہیں بھولوں گا۔'",
+      "english": "The lion became free! He was very happy. He thanked the mouse and said: 'My small friend, you saved my life. I will never forget this favor of yours.'"
+    },
+    {
+      "urdu": "اس دن شیر نے ایک اہم سبق سیکھا: چھوٹا ہونا کمزور ہونا نہیں ہے۔ ہر کوئی مشکل وقت میں کام آ سکتا ہے۔",
+      "english": "That day the lion learned an important lesson: being small doesn't mean being weak. Everyone can be helpful in difficult times."
+    },
+    {
+      "urdu": "اس کہانی کا سبق یہ ہے کہ کبھی کسی کو چھوٹا نہیں سمجھنا چاہیے۔ مدد کسی بھی طرف سے آ سکتی ہے۔ اچھائی ہمیشہ اچھائی سے واپس آتی ہے۔",
+      "english": "The lesson of this story is that one should never consider anyone small. Help can come from any direction. Goodness always returns with goodness."
+    },
+    {
+      "urdu": "اور اس دن سے شیر اور چوہا سچے دوست بن گئے۔ وہ ہمیشہ ایک دوسرے کی مدد کرتے رہے۔",
+      "english": "And from that day, the lion and the mouse became true friends. They always continued to help each other."
+    }
+  ]
+}
