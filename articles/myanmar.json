@@ -1,0 +1,252 @@
+{
+  "id": "myanmar",
+  "category": "news",
+  "title": {
+    "urdu": "بڑے سیاسی رہنما قید، مخالف جماعتوں کے خلاف کریک ڈاؤن: میانمار میں فوجی حکومت کی 'نگرانی' میں ہونے والے الیکشن پر تنقید",
+    "english": "Major Political Leaders Imprisoned, Crackdown Against Opposition Parties: Criticism of Elections Being Held Under Military Government's 'Supervision' in Myanmar"
+  },
+  "vocabulary": {
+    "سیاسی": "political",
+    "رہنما": "leaders",
+    "قید": "imprisoned",
+    "مخالف": "opposition",
+    "جماعتوں": "parties",
+    "جماعتیں": "parties",
+    "فوجی": "military",
+    "حکومت": "government",
+    "نگرانی": "supervision",
+    "الیکشن": "elections",
+    "انتخابات": "elections",
+    "تنقید": "criticism",
+    "ووٹنگ": "voting",
+    "جاری": "ongoing",
+    "جعلی": "fake",
+    "ملک": "country",
+    "تحلیل": "dissolved",
+    "جیل": "prison",
+    "خانہ جنگی": "civil war",
+    "نصف": "half",
+    "آبادی": "population",
+    "توقع": "expected",
+    "پانچ": "five",
+    "برس": "years",
+    "بعد": "after",
+    "بغاوت": "coup",
+    "اقتدار": "power",
+    "قبضہ": "seized",
+    "مخالفت": "opposition",
+    "مبصرین": "observers",
+    "چین": "China",
+    "حمایت": "support",
+    "طاقت": "power",
+    "قانونی جواز": "legitimize",
+    "مستحکم": "consolidate",
+    "کوشش": "trying",
+    "نئے": "new",
+    "قوانین": "laws",
+    "رکاوٹ": "obstructing",
+    "سخت": "harsh",
+    "سزائیں": "punishments",
+    "سزائے موت": "death penalty",
+    "افراد": "people",
+    "لوگ": "people",
+    "مقدمات": "cases",
+    "اتوار": "Sunday",
+    "دو": "two",
+    "علاقوں": "areas",
+    "علاقے": "areas",
+    "دھماکوں": "explosions",
+    "مکان": "house",
+    "مکانات": "houses",
+    "راکٹ": "rocket",
+    "حملے": "attack",
+    "حملہ": "attack",
+    "تین": "three",
+    "ہسپتال": "hospital",
+    "تشویشناک": "critical",
+    "سرحد": "border",
+    "سنیچر": "Saturday",
+    "دس": "ten",
+    "نقصان": "damage",
+    "رہائشی": "resident",
+    "بچہ": "child",
+    "بچے": "children",
+    "بچوں": "children",
+    "ہلاک": "killed",
+    "زخمی": "injured",
+    "ووٹرز": "voters",
+    "منظم": "organized",
+    "خوف": "fear",
+    "سکون": "peace",
+    "شہری": "citizen",
+    "شہریوں": "citizens",
+    "ذمہ داری": "responsibility",
+    "امید": "hope",
+    "غریب": "poor",
+    "وقت": "time",
+    "اشیائے خوردونوش": "food",
+    "قیمتیں": "prices",
+    "شخص": "person",
+    "صدر": "president",
+    "مسترد": "rejected",
+    "مقصد": "goal",
+    "کثیر الجماعتی": "multi-party",
+    "جمہوری": "democratic",
+    "نظام": "system",
+    "سربراہ": "chief",
+    "دارالحکومت": "capital",
+    "حفاظتی": "security",
+    "آزاد": "free",
+    "منصفانہ": "fair",
+    "مسلح افواج": "armed forces",
+    "کمانڈر": "commander",
+    "سرکاری ملازم": "government servant",
+    "خبردار": "warned",
+    "جمہوریت": "democracy",
+    "فلم": "film",
+    "ڈائریکٹر": "director",
+    "اداکار": "actor",
+    "مزاحیہ فنکار": "comedian",
+    "جولائی": "July",
+    "قانون": "law",
+    "سات": "seven",
+    "سال": "years",
+    "سزا": "sentence",
+    "الزام": "accused",
+    "اقوامِ متحدہ": "UN",
+    "انسانی حقوق": "human rights",
+    "آزادیِ اظہار": "freedom of expression",
+    "اجتماع": "assembly",
+    "پُرامن": "peaceful",
+    "احتجاج": "protest",
+    "عام": "ordinary",
+    "دباؤ": "pressure",
+    "مسلح": "armed",
+    "عوام": "people",
+    "دھمکیاں": "threats",
+    "مزاحمتی": "resistance",
+    "نسلی": "ethnic",
+    "فوج": "army",
+    "روس": "Russia",
+    "فضائی حملوں": "airstrikes",
+    "ہزاروں": "thousands",
+    "جان": "lives",
+    "لاکھوں": "millions",
+    "بے گھر": "displaced",
+    "معیشت": "economy",
+    "تباہ": "devastated",
+    "انسانی": "humanitarian",
+    "بحران": "crisis",
+    "مارچ": "March",
+    "زلزلے": "earthquake",
+    "عالمی": "global",
+    "امداد": "aid",
+    "اپوزیشن": "opposition",
+    "مستحکم": "stable",
+    "نتائج": "results",
+    "جنوری": "January",
+    "چھ": "six",
+    "امیدوار": "candidates",
+    "چالیس": "forty",
+    "پابندی": "ban",
+    "الزامات": "charges",
+    "برطانیہ": "Britain",
+    "یورپی": "European",
+    "پارلیمان": "Parliament",
+    "مغربی": "Western",
+    "حکومتوں": "governments",
+    "آسیان": "ASEAN",
+    "مکالمہ": "dialogue",
+    "ضروری": "necessary"
+  },
+  "paragraphs": [
+    {
+      "urdu": "میانمار میں ایسے انتخابات کے لیے ووٹنگ جاری ہے جنھیں بڑے پیمانے پر 'جعلی' قرار دیا جا رہا ہے۔ ملک کی بڑی سیاسی جماعتیں تحلیل کر دی گئی ہیں، ان کے کئی رہنما جیل میں ہیں اور جاری خانہ جنگی کے باعث نصف آبادی کے ووٹ ڈالنے کی توقع نہیں کی جا رہی۔",
+      "english": "Voting is underway in Myanmar for elections that are being widely labeled as 'fake'. The country's major political parties have been dissolved, many of their leaders are in prison, and due to the ongoing civil war, half the population is not expected to vote."
+    },
+    {
+      "urdu": "فوجی حکومت تقریباً پانچ برس بعد مرحلہ وار ووٹنگ کرا رہی ہے۔ یہ وہی فوجی حکومت ہے جس نے بغاوت کے ذریعے اقتدار پر قبضہ کیا تھا، جس کے بعد ملک میں شدید مخالفت اور خانہ جنگی شروع ہو گئی تھی۔",
+      "english": "The military government is conducting phased voting after nearly five years. This is the same military government that seized power through a coup, after which severe opposition and civil war broke out in the country."
+    },
+    {
+      "urdu": "مبصرین کا کہنا ہے کہ فوجی حکومت چین کی حمایت سے اپنی طاقت کو قانونی جواز دینے اور اسے مزید مستحکم کرنے کی کوشش کر رہی ہے۔",
+      "english": "Observers say the military government is trying to legitimize and further consolidate its power with China's support."
+    },
+    {
+      "urdu": "نئے قوانین کے تحت انتخابات میں رکاوٹ ڈالنے یا مخالفت کرنے پر سخت سزائیں دی جا رہی ہیں، جن میں سزائے موت بھی شامل ہے۔ اب تک 200 سے زائد افراد پر مقدمات قائم کیے جا چکے ہیں۔",
+      "english": "Under new laws, harsh punishments are being given for obstructing or opposing the elections, including the death penalty. So far, cases have been filed against more than 200 people."
+    },
+    {
+      "urdu": "اتوار کو ووٹنگ کے آغاز سے قبل کم از کم دو علاقوں میں دھماکوں کی اطلاعات موصول ہوئیں۔ منڈالے ریجن میں ایک غیر آباد مکان پر راکٹ حملے کے بعد تین افراد کو ہسپتال منتقل کیا گیا جن میں سے ایک کی حالت تشویشناک بتائی جا رہی ہے۔",
+      "english": "Before voting began on Sunday, reports of explosions were received from at least two areas. In Mandalay Region, three people were taken to hospital after a rocket attack on an uninhabited house, with one reported to be in critical condition."
+    },
+    {
+      "urdu": "تھائی لینڈ کی سرحد کے قریب میاوادی ٹاؤن شپ میں سنیچر کی رات دھماکوں کے نتیجے میں دس سے زائد مکانات کو نقصان پہنچا۔ ایک مقامی رہائشی نے بی بی سی کو بتایا کہ اس حملے میں ایک بچہ ہلاک ہوا جبکہ تین افراد کو شدید زخمی حالت میں ہسپتال لے جایا گیا۔",
+      "english": "Near the Thailand border in Myawaddy Township, explosions on Saturday night damaged more than ten houses. A local resident told the BBC that a child was killed in this attack while three people were taken to hospital in seriously injured condition."
+    },
+    {
+      "urdu": "کچھ ووٹرز نے بی بی سی کو بتایا کہ اس بار ووٹنگ کا عمل پہلے کے مقابلے میں زیادہ 'منظم' محسوس ہو رہا ہے۔",
+      "english": "Some voters told the BBC that this time the voting process feels more 'organized' than before."
+    },
+    {
+      "urdu": "منڈالے ریجن کی رہائشی ما سو زارچی نے کہا کہ 'پہلے ووٹ ڈالنے سے خوف آتا تھا، لیکن اب ووٹ ڈالنے کے بعد سکون محسوس ہو رہا ہے۔ میں نے ملک کے لیے ووٹ ڈالا ہے۔'",
+      "english": "Ma Su Zarchi, a resident of Mandalay Region, said: 'Before, I was afraid to vote, but now after voting I feel at peace. I have voted for the country.'"
+    },
+    {
+      "urdu": "پہلی بار ووٹ ڈالنے والی 22 برس کی ای پیاے فیو ماؤنگ نے کہا کہ وہ ووٹ اس لیے ڈال رہی ہیں کیونکہ یہ ہر شہری کی ذمہ داری ہے۔ ان کا کہنا تھا کہ 'میری امید غریب طبقے کے لیے ہے۔ اس وقت اشیائے خوردونوش کی قیمتیں آسمان کو چھو رہی ہیں، اور میں ایسے شخص کی حمایت کرنا چاہتی ہوں جو انھیں کم کر سکے۔ میں ایسا صدر چاہتی ہوں جو سب کے لیے برابر سہولتیں فراہم کرے۔'",
+      "english": "22-year-old first-time voter Ei Pyae Phyu Maung said she is voting because it is every citizen's responsibility. She said: 'My hope is for the poor class. Right now food prices are sky-high, and I want to support a person who can reduce them. I want a president who provides equal facilities for everyone.'"
+    },
+    {
+      "urdu": "فوجی حکومت نے انتخابات پر تنقید کو مسترد کرتے ہوئے کہا ہے کہ اس کا مقصد ملک کو 'کثیر الجماعتی جمہوری نظام' کی طرف واپس لے جانا ہے۔",
+      "english": "The military government has rejected criticism of the elections, saying its goal is to take the country back towards a 'multi-party democratic system'."
+    },
+    {
+      "urdu": "میانمار کے فوجی سربراہ من آنگ ہلائنگ نے دارالحکومت میں سخت حفاظتی انتظامات کے تحت قائم پولنگ سٹیشن پر ووٹ ڈالنے کے بعد بی بی سی سے گفتگو میں دعویٰ کیا کہ انتخابات آزاد اور منصفانہ ہوں گے۔",
+      "english": "Myanmar's military chief Min Aung Hlaing, after voting at a polling station under tight security in the capital, claimed in a conversation with the BBC that the elections would be free and fair."
+    },
+    {
+      "urdu": "ان کا کہنا تھا کہ 'میں مسلح افواج کا کمانڈر ان چیف اور ایک سرکاری ملازم ہوں۔ میں صرف یہ نہیں کہہ سکتا کہ میں صدر بننا چاہتا ہوں۔' انھوں نے کہا کہ انتخابات تین مراحل میں ہوں گے۔",
+      "english": "He said: 'I am the Commander-in-Chief of the armed forces and a government servant. I cannot simply say that I want to become president.' He said the elections would be held in three phases."
+    },
+    {
+      "urdu": "اس ہفتے کے آغاز میں انھوں نے خبردار کیا تھا کہ جو لوگ ووٹ نہیں ڈالیں گے وہ 'جمہوریت کی طرف پیش رفت' کو مسترد کر رہے ہیں۔",
+      "english": "Earlier this week he had warned that people who don't vote are rejecting 'progress towards democracy'."
+    },
+    {
+      "urdu": "ادھر فلم ڈائریکٹر مائیک ٹی، اداکار کیاو ون ہتوت اور مزاحیہ فنکار اون ڈائنگ سمیت کئی نمایاں شخصیات کو جولائی میں نافذ کیے گئے قانون کے تحت سات سال قید کی سزا سنائی گئی ہے۔ ان پر الزام ہے کہ انھوں نے انتخابات کی تشہیر کرنے والی ایک فلم پر تنقید کی تھی۔",
+      "english": "Meanwhile, several prominent figures including film director Mike Tee, actor Kyaw Win Htut, and comedian Ohn Dying have been sentenced to seven years in prison under a law enacted in July. They are accused of criticizing a film promoting the elections."
+    },
+    {
+      "urdu": "اقوامِ متحدہ کے انسانی حقوق کے سربراہ وولکر ترک نے کہا ہے کہ ملک میں آزادیِ اظہار، اجتماع اور پُرامن احتجاج کے حقوق استعمال کرنے کی کوئی گنجائش نہیں ہے۔ ان کے مطابق عام شہری 'ہر طرف سے دباؤ کا شکار ہیں'۔ انھوں نے یہ بھی بتایا کہ مسلح باغی گروہوں نے عوام کو انتخابات کے بائیکاٹ کی دھمکیاں دی ہیں۔",
+      "english": "The UN Human Rights Chief Volker Türk has said there is no room in the country to exercise the rights of freedom of expression, assembly, and peaceful protest. According to him, ordinary citizens are 'under pressure from all sides'. He also said that armed rebel groups have given threats to people to boycott the elections."
+    },
+    {
+      "urdu": "فوجی حکومت اس وقت کئی محاذوں پر لڑ رہی ہے، ایک طرف بغاوت کے مخالف مزاحمتی گروہ ہیں اور دوسری جانب نسلی فوجی تنظیمیں ہیں۔ فوج نے حالیہ برسوں میں ملک کے بڑے حصے پر کنٹرول کھو دیا تھا لیکن چین اور روس کی مدد سے فضائی حملوں کے ذریعے کچھ علاقوں پر دوبارہ قبضہ کر لیا ہے۔",
+      "english": "The military government is currently fighting on multiple fronts - on one side are anti-coup resistance groups and on the other are ethnic armed organizations. The army had lost control of large parts of the country in recent years but has recaptured some areas through airstrikes with help from China and Russia."
+    },
+    {
+      "urdu": "واضح رہے کہ یہ خانہ جنگی ہزاروں افراد کی جان لے چکی ہے، لاکھوں کو بے گھر کر دیا ہے، معیشت تباہ ہو چکی ہے اور انسانی بحران شدت اختیار کر گیا ہے۔ مارچ میں آنے والے تباہ کن زلزلے اور عالمی امداد میں کمی نے حالات مزید خراب کر دیے ہیں۔",
+      "english": "It should be noted that this civil war has claimed thousands of lives, displaced millions, devastated the economy, and intensified the humanitarian crisis. The devastating earthquake in March and reduction in global aid have made the situation even worse."
+    },
+    {
+      "urdu": "انتخابات کے انعقاد میں سب سے بڑی رکاوٹ یہ ہے کہ ملک کے بڑے حصے اب بھی اپوزیشن کے کنٹرول میں ہیں۔ ووٹنگ تین مراحل میں ایک ماہ کے دوران 330 میں سے 265 ٹاؤن شپ میں ہوگی، باقی علاقوں کو غیر مستحکم قرار دیا گیا ہے۔ نتائج جنوری کے آخر تک متوقع ہیں۔",
+      "english": "The biggest obstacle to holding elections is that large parts of the country are still under opposition control. Voting will be held in three phases over one month in 265 of 330 townships, with remaining areas declared unstable. Results are expected by the end of January."
+    },
+    {
+      "urdu": "ملک کے نصف حصے میں ووٹنگ نہ ہونے کی توقع ہے اور جہاں ووٹنگ ہو رہی ہے وہاں بھی تمام حلقوں میں پولنگ نہیں ہوگی، جس سے ٹرن آؤٹ کا اندازہ لگانا مشکل ہو گیا ہے۔",
+      "english": "Voting is not expected in half of the country, and even where voting is taking place, polling won't happen in all constituencies, making it difficult to estimate turnout."
+    },
+    {
+      "urdu": "میانمار میں چھ جماعتیں، جن میں فوجی حمایت یافتہ یونین سالیڈیرٹی اینڈ ڈویلپمنٹ پارٹی بھی شامل ہے، ملک بھر میں امیدوار کھڑے کر رہی ہیں۔ اس کے علاوہ 51 جماعتیں اور آزاد امیدوار صرف ریاستی یا علاقائی سطح پر مقابلہ کریں گے۔",
+      "english": "Six parties in Myanmar, including the military-backed Union Solidarity and Development Party, are fielding candidates across the country. Additionally, 51 parties and independent candidates will only compete at state or regional level."
+    },
+    {
+      "urdu": "تقریباً 40 جماعتوں پر پابندی عائد کر دی گئی ہے، جن میں آنگ سان سوچی کی نیشنل لیگ فار ڈیموکریسی بھی شامل ہے۔ یہ وہی جماعت ہے جس نے 2015 اور 2020 کے انتخابات میں بھاری اکثریت حاصل کی تھی۔ سوچی اور جماعت کے کئی اہم رہنما سیاسی نوعیت کے الزامات کے تحت جیل میں ہیں جبکہ دیگر جلاوطنی کی زندگی گزار رہے ہیں۔",
+      "english": "About 40 parties have been banned, including Aung San Suu Kyi's National League for Democracy. This is the same party that won large majorities in the 2015 and 2020 elections. Suu Kyi and several key leaders of the party are in prison on political charges while others are living in exile."
+    },
+    {
+      "urdu": "برطانیہ اور یورپی پارلیمان سمیت مغربی حکومتوں نے ان انتخابات کو 'جعلی' قرار دیا ہے، جبکہ علاقائی تنظیم آسیان نے کہا ہے کہ کسی بھی انتخاب سے پہلے سیاسی مکالمہ ضروری ہے۔",
+      "english": "Western governments including Britain and the European Parliament have called these elections 'fake', while the regional organization ASEAN has said that political dialogue is necessary before any election."
+    }
+  ]
+}
