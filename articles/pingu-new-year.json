@@ -1,0 +1,295 @@
+{
+  "id": "pingu-new-year",
+  "category": "fairy-tale",
+  "title": {
+    "urdu": "پنگو کا نیا سال",
+    "english": "Pingu's New Year"
+  },
+  "vocabulary": {
+    "پنگو": "Pingu",
+    "پینگوینز": "penguins",
+    "پینگوین": "penguin",
+    "سنی": "Sunny",
+    "سیلی": "Sally",
+    "محبت": "love",
+    "دوستی": "friendship",
+    "دوست": "friend",
+    "قصہ": "story",
+    "نیا سال": "New Year",
+    "نئے سال": "new year",
+    "آتش بازی": "fireworks",
+    "آتشبازی": "fireworks",
+    "سمندر": "sea/ocean",
+    "پانی": "water",
+    "برف": "ice/snow",
+    "ساحل": "shore/beach",
+    "جہاز": "ship",
+    "شہر": "city",
+    "زو": "zoo",
+    "فیسلیٹی": "facility",
+    "ڈاکٹرز": "doctors",
+    "بیماری": "illness",
+    "علاج": "cure/treatment",
+    "فیصلہ": "decision",
+    "رات": "night",
+    "صبح": "morning",
+    "دن": "day",
+    "ہفتے": "weeks",
+    "مہینے": "months",
+        "سالوں": "years",
+    "زندگی": "life",
+    "قسمت": "fate/destiny",
+    "خوشی": "happiness",
+    "تکلیف": "pain/trouble",
+    "امید": "hope",
+    "یقین": "belief/trust",
+    "خوف": "fear",
+    "ڈر": "fear",
+    "آزادی": "freedom",
+    "مشکل": "difficulty",
+    "مصیبت": "trouble/hardship",
+    "کھانا": "food",
+    "بھوک": "hunger",
+    "گرم": "hot/warm",
+    "سرد": "cold",
+    "ٹھنڈی": "cold",
+    "موسم": "weather",
+    "طوفان": "storm",
+    "لہر": "wave",
+    "سیل": "seal",
+    "حملہ": "attack",
+    "جان": "life",
+    "خطرے": "danger",
+    "بچانے": "to save",
+    "ہم سفر": "partner/companion",
+    "ملکہ": "queen",
+    "پتھر": "pebble/stone",
+    "ویڈل": "waddle",
+    "ایمپرر": "Emperor",
+    "کنگ": "King",
+    "دانشمند": "wise",
+    "توبی": "Toby",
+    "ٹرونی": "Troni",
+    "سموڈیز": "smoothies",
+    "فریز": "freeze",
+    "کھال": "skin",
+    "بال": "feathers/hair",
+    "ملائم": "smooth",
+    "آنکھیں": "eyes",
+    "چونچ": "beak",
+    "ہاتھ": "hand",
+    "زبان": "tongue/language",
+    "علم": "knowledge",
+    "الگ": "different",
+    "پسند": "like",
+    "اظہار": "express",
+    "خوابوں": "dreams",
+    "انتظار": "waiting",
+    "گھر": "home",
+    "گھروں": "homes",
+    "جگہ": "place",
+    "دنیا": "world",
+    "انٹارکٹیکا": "Antarctica",
+    "انسان": "human",
+    "انسانوں": "humans",
+    "لوگ": "people",
+    "بچہ": "child",
+    "بیٹا": "son",
+    "ٹکٹ": "ticket",
+    "چھوٹا": "small/young",
+    "بڑے": "big/elder",
+    "گہری": "deep",
+    "تیز": "fast",
+    "جلدی": "quickly",
+    "آخر": "finally/end",
+    "شروع": "start/beginning",
+    "واپس": "back/return",
+    "ساتھ": "together/with",
+    "پیچھے": "behind",
+    "اندر": "inside",
+    "باہر": "outside",
+    "اوپر": "above",
+    "نیچے": "below",
+    "قریب": "close/near",
+    "دور": "far",
+    "ہمیشہ": "always",
+    "کبھی": "ever/sometimes",
+    "اکثر": "often",
+    "پہلے": "before/first",
+    "بعد": "after",
+    "کل": "tomorrow/yesterday",
+    "آج": "today",
+    "رپورٹ": "report",
+    "نام": "name",
+    "خراب": "bad/damaged",
+    "صحیح": "right/correct",
+    "غلط": "wrong",
+    "نیک": "good/noble",
+    "ارادے": "intentions",
+    "مدد": "help",
+    "کوشش": "effort/try",
+    "تلاش": "search",
+    "ملاقات": "meeting",
+    "باتیں": "conversations",
+    "سوال": "question",
+    "جواب": "answer",
+    "سمجھ": "understanding",
+    "یاد": "memory/remember",
+    "شفا": "healing",
+    "خوشخبری": "good news",
+    "وعدہ": "promise",
+    "سفر": "journey",
+    "پڑھائی": "study",
+    "جشن": "celebration",
+    "خوشی منائی": "celebrated",
+    "مسکرائے": "smiled",
+    "گلے لگایا": "hugged",
+    "بارہ بج گئے": "it's midnight"
+  },
+  "paragraphs": [
+    {
+      "urdu": "پنگو کا نیا سال۔ کیا آپ کو علم ہے کہ پانی میں رہنے والے پینگوینز کے مجمے کو ایک بیرا کہتے ہیں پر زمین پر انہیں ایک ویڈل کہتے ہیں؟ نہیں یہ تحریری ثبوت نہیں ہے۔ یہ ایک محبت کا قصہ ہے۔ ملیے پنگو سے، ایک پینگوین جو ہمیشہ ٹھوکر کھاتا ہے، وہ بھی بس ایسے ہی۔",
+      "english": "Pingu's New Year. Did you know that a group of penguins living in water is called a 'raft', but on land they're called a 'waddle'? No, this isn't a written document - this is a love story. Meet Pingu, a penguin who always stumbles, just like that."
+    },
+    {
+      "urdu": "جب وہ چھوٹا تھا اسے علم تھا کہ وہ دوسروں سے بہت الگ ہے۔ پر یہ قصہ پنگو سے شروع نہیں ہوتا۔ یہ قصہ سنی سے شروع ہوتا ہے۔ ارے واہ! تم پھر سے اپنے دوست سے ملاقات کرنے آئے ہو؟ ہاں! کیا مہربانی کر کے آپ مجھے ایک ٹکٹ دیں گے؟ ہاں ضرور بیٹا۔",
+      "english": "When he was young, he knew he was very different from others. But this story doesn't start with Pingu - this story starts with Sunny. Oh wow! You've come to meet your friend again? Yes! Please, could you give me a ticket? Yes, of course, son."
+    },
+    {
+      "urdu": "میں نے تمہیں بہت مس کیا۔ سنی اکثر پنگو سے ملنے آتا اور گھنٹوں اس کے ساتھ باتیں کرتا۔ وہ ایک دوسرے کو سمجھتے تھے۔ انہیں ایک دوسرے کے ساتھ رہنا پسند تھا۔ بائے پنگو۔ سالوں گزر گئے اور سنی اور پنگو کی دوستی اور بھی گہری ہو گئی۔",
+      "english": "I missed you so much. Sunny would often come to visit Pingu and spend hours talking with him. They understood each other. They loved being together. Bye, Pingu. Years passed, and Sunny and Pingu's friendship grew even deeper."
+    },
+    {
+      "urdu": "یہ سکویڈ ہے۔ یہ گنباد۔ یہ ساحل۔ مجھے جو بھی پسند ہے وہ یہی جگہ ہے۔ اور سنی بھی۔ میں اس جگہ کو کبھی نہیں چھوڑوں گا۔ پر اس کی قسمت میں کچھ اور ہی لکھا تھا۔",
+      "english": "This is the squid. This is the dome. This beach. Everything I love is right here - and Sunny too. I'll never leave this place. But fate had other plans for him."
+    },
+    {
+      "urdu": "ڈاکٹرز ہر روز پینگوینز کی جانچ کرتے کہ کہیں انہیں کوئی بیماری تو نہیں۔ ایک روز انہیں پنگو میں کچھ الگ سا دکھا۔ فیسلیٹی میں لوگ جانتے تھے کہ پنگو اور سنی ایک دوسرے کے کتنے قریب تھے۔ اس لیے انہوں نے سنی کو اطلاع کیا اور اسے رپورٹ دکھائی۔",
+      "english": "The doctors would examine the penguins every day to check if they had any illness. One day, they noticed something different about Pingu. People at the facility knew how close Pingu and Sunny were, so they informed Sunny and showed him the report."
+    },
+    {
+      "urdu": "میں کچھ سمجھا نہیں۔ مجھے پتا ہے کہ تم اس کے قریب ہو پر اسے ایک بیماری ہے جس کے لیے ہمارے پاس کوئی علاج نہیں۔ اس کی زبان بہت بھاری ہے اور ہمیں ڈر ہے کہ اگر زیادہ دن تک ہم اسے یہاں پر رکھیں گے تو ہماری فیسلیٹی کا نام خراب ہوگا۔",
+      "english": "I don't understand. I know you're close to him, but he has an illness for which we have no cure. His tongue is very heavy, and we're afraid that if we keep him here much longer, our facility's reputation will be damaged."
+    },
+    {
+      "urdu": "آپ سمجھ نہیں رہے ہیں۔ یہ کوئی بیماری نہیں ہے۔ وہ بس تھوڑا الگ ہے۔ ہم تمہاری تکلیف کو سمجھ سکتے ہیں پر فیصلہ ہو چکا ہے کہ پنگو کل صبح یہاں سے لے جایا جائے گا۔",
+      "english": "You don't understand - this isn't an illness. He's just a little different. We understand your pain, but the decision has been made. Pingu will be taken away tomorrow morning."
+    },
+    {
+      "urdu": "جس فیسلیٹی کے بارے میں انہوں نے بتایا تھا وہ شہر سے کافی دور تھی۔ سنی نے سوچا کہ کیا ہوگا اگر اس فیسلیٹی میں بھی انہیں لگا کہ پنگو کو یہاں پر رکھنا مناسب نہیں ہوگا۔ ڈاکٹرز نے اپنا فیصلہ لے لیا تھا اور سنی نے اپنا۔",
+      "english": "The facility they mentioned was quite far from the city. Sunny wondered what would happen if that facility also decided it wasn't appropriate to keep Pingu. The doctors had made their decision, and Sunny had made his."
+    },
+    {
+      "urdu": "اس کے پاس اپنے دوست کی مدد کرنے کے لیے صرف ایک رات تھی۔ اور اس رات جب سب لوگ سو رہے تھے، سنی فیسلیٹی کے اندر داخل ہوا۔ پنگو! اٹھ جاؤ! اس نے پنگو کو اٹھایا اور وہاں سے بھاگ گیا۔",
+      "english": "He had only one night to help his friend. And that night, when everyone was asleep, Sunny entered the facility. Pingu! Wake up! He lifted Pingu and ran away from there."
+    },
+    {
+      "urdu": "حالانکہ اس کے ارادے نیک تھے، لیکن جو سنی نے کیا اس کا انجام پنگو اور اس کے لیے الگ ہونے والا تھا۔ شکریہ میرے دوست۔",
+      "english": "Although his intentions were good, what Sunny did would end up separating Pingu from him. Thank you, my friend."
+    },
+    {
+      "urdu": "کئی دنوں تک پنگو تیرتا رہا۔ اسے یہ آزادی بہت راس آ رہی تھی۔ اس نے پہلے کبھی اتنا پانی نہیں دیکھا تھا۔ پر آزادی کے ساتھ ساتھ کچھ مشکلیں بھی تھیں۔ اور پہلی تھی کھانے کی تلاش۔ وہاں فیسلیٹی میں اسے سب چیزیں ملتی تھیں پر یہاں کی بات الگ تھی۔ یہاں پر چیزیں ملنا اتنا آسان نہیں تھا۔",
+      "english": "For many days, Pingu kept swimming. He was really enjoying this freedom. He had never seen so much water before. But along with freedom came some difficulties, and the first was finding food. At the facility, he got everything he needed, but here it was different. Finding things here wasn't so easy."
+    },
+    {
+      "urdu": "آخر میں جب پنگو ساحل پر پہنچا، اس نے ساحل پر بیٹھ کر ایک گہری سانس لی۔ اسے بہت بھوک لگی تھی۔ جب سے میں نے اپنا علاقہ چھوڑا ہے میں نے کچھ نہیں کھایا۔ یہ کتنا مشکل ہے اور مجھے اتنا پسینہ آیا ہے۔ اسے علم نہیں تھا کہ پینگوینز زیادہ دیر تک گرم موسم میں نہیں رہ سکتے۔ اسے ایسی جگہ پہنچنا تھا جو اس کے لیے صحیح ہو۔",
+      "english": "Finally, when Pingu reached the shore, he sat down and took a deep breath. He was very hungry. Since I left my area, I haven't eaten anything. This is so hard, and I'm sweating so much. He didn't know that penguins can't survive in warm weather for too long. He needed to reach a place that was right for him."
+    },
+    {
+      "urdu": "میرا پینگوین دماغ مجھے بتا رہا ہے کہ مجھے اس طرف جانا ہوگا اور پھر مجھے گرمی نہیں لگے گی۔ میں حیران ہوں کہ میں اتنی دور تک کیسے تیر سکتا ہوں۔ پنگو صحیح تھا۔ پینگوینز کافی مہینوں تک پانی میں رہ سکتے ہیں۔ اسے اپنے فیسلیٹی والے دوستوں کی بہت یاد آنے لگی پر ساتھ ہی وہ اپنی نئی دنیا میں جانے کے لیے پر جوش تھا۔ پر مصیبت اتنی جلدی ختم نہیں ہونے والی تھی۔",
+      "english": "My penguin instinct is telling me I need to go this way, and then I won't feel the heat. I wonder how I can swim so far. Pingu was right - penguins can stay in water for many months. He started missing his friends from the facility, but at the same time, he was excited to explore his new world. But the trouble wasn't going to end so soon."
+    },
+    {
+      "urdu": "ایک سیل پنگو پر حملہ کرنے والا تھا۔ پر تب ہی اس کی زندگی میں وہ آئی۔ پنگو بنا سوچے سمجھے اس پینگوین کے پیچھے دوڑتا رہا۔ جیسے ہی وہ گہرے پانی میں کود گئی وہ بھی ساتھ میں کودا اور آخر میں وہ ساحل تک پہنچ گئے۔",
+      "english": "A seal was about to attack Pingu, but then she came into his life. Without thinking, Pingu kept following that penguin. As soon as she jumped into deep water, he jumped too, and finally they reached the shore."
+    },
+    {
+      "urdu": "تم اتنے پیچھے میرے کیوں آئے؟ کیونکہ سیل صرف پانی کے اندر ہی تیز ہوتے ہیں۔ میں تمہیں پکڑ لوں گا! کیا اب تم مجھے پکڑ پاؤگے؟ پکڑ؟ یہ پکڑ کیا ہے؟ یہاں پر دیوانوں کی کمی نہیں ہے۔ رہنے بھی دو ٹرونی۔",
+      "english": "Why did you follow me? Because seals are only fast in the water. I'll catch you! Can you catch me now? Catch? What's catch? There's no shortage of crazy ones here. Let it go, Troni."
+    },
+    {
+      "urdu": "ویسے میرا نام سیلی ہے۔ یہاں جگہ بہت کچھ کتنا الگ ہے۔ میں پنگو ہوں۔ پنگو نے انہیں سب کچھ بتایا اور سبھی پینگوینز بڑے غور سے سن رہے تھے کیونکہ ان میں سے کسی نے بھی شہر نہیں دیکھا تھا۔",
+      "english": "By the way, my name is Sally. This place is so different. I'm Pingu. Pingu told them everything, and all the penguins listened carefully because none of them had ever seen a city."
+    },
+    {
+      "urdu": "کیا تم زو سے آئے ہو؟ وہ تمہیں ہر دن کھانا کھلاتے ہیں؟ انہوں نے تمہیں کیا سکھایا؟ ان کے پاس بہت سارے سوال تھے پر پنگو کے پاس ان سے بھی زیادہ۔ یہ فریز کیا ہے اور یہ سموڈیز کیا ہے؟",
+      "english": "Did you come from a zoo? They feed you every day? What did they teach you? They had so many questions, but Pingu had even more. What are 'freeze' and what are 'smoothies'?"
+    },
+    {
+      "urdu": "ہم ہیں سموڈیز۔ دیکھو ہماری کھال کتنی ملائم ہے۔ اور وہ ہیں فریز۔ ان کے جسم کے بال تو دیکھو۔ ویسے انسان ہمیں الگ نام سے بلاتے ہیں۔ شاید وہ ہمیں ایمپرر پینگوینز بلاتے ہیں اور انہیں کنگ پینگوینز۔ ہمیں تو پتا بھی نہیں ان کے مطلب کیا ہے۔ پر تم تو جانتے ہو انسان ہر چیز کا مطلب نکالنے میں لگے رہتے ہیں اپنے حساب سے۔",
+      "english": "We are the 'smoothies' - look how smooth our skin is. And those are the 'freeze' - look at their body feathers. Actually, humans call us by different names. I think they call us Emperor Penguins and them King Penguins. We don't even know what those mean, but you know how humans are - always trying to find meaning in everything their own way."
+    },
+    {
+      "urdu": "توبی ہم سب میں سے دانشمند ہے۔ زیادہ تر ہم بھی اسے سمجھ نہیں پاتے ہیں۔ اوہ اچھا مجھے لگا کہ وہ شاید کچھ الگ ہی زبان میں بات کر رہا ہے۔ پنگو کو سیلی سے محبت ہو گئی تھی۔ اس کی آنکھیں، اس کی چونچ۔ پنگو بس ان کے بارے میں سوچتا رہتا۔",
+      "english": "Toby is the wisest among us all. Most of the time, even we don't understand him. Oh, I see - I thought he was speaking in a completely different language. Pingu had fallen in love with Sally. Her eyes, her beak - Pingu just kept thinking about her."
+    },
+    {
+      "urdu": "دن، ہفتے اور مہینے گزر گئے اور پنگو اس جگہ پر کافی خوش تھا۔ اور خاص کر کے سیلی کے ساتھ۔ تو تم اسے کب ظاہر کرنے والے ہو؟ سیلی کو؟ جانتے ہو وہ بس مجھے یوں ہی دانشمند نہیں بلاتے ہیں۔ مجھے پتا ہے تم سیلی کو پسند کرتے ہو پر تمہیں اظہار کرنا ہوگا۔ ٹرونی بھی سیلی کو پسند کرتا ہے اور پورا ویڈل یہ بات جانتا ہے۔",
+      "english": "Days, weeks, and months passed, and Pingu was very happy in this place, especially with Sally. So when are you going to express your feelings? To Sally? You know, they don't just call me wise for nothing. I know you like Sally, but you need to express it. Troni also likes Sally, and the whole waddle knows it."
+    },
+    {
+      "urdu": "سنو۔ کل ہمارے ہاں پیبل ڈے ہے۔ کل کے دن ہم اپنے خوابوں کی ملکہ کو پتھر دیتے ہیں۔ اسے جلدی سے پتھر دے دو۔ پنگو صبح صبح جلدی اٹھا اور سب سے ملائم پتھر کی تلاش میں لگ گیا۔ اس نے بہت کوشش کی پر سیلی کو کوئی دلچسپی نہیں تھی۔ اور اس سے ٹرونی بہت خوش تھا۔ پنگو نے ہار نہیں مانی۔",
+      "english": "Listen. Tomorrow is Pebble Day. On this day, we give a pebble to the queen of our dreams. Give her a pebble quickly. Pingu woke up early in the morning and started searching for the smoothest pebble. He tried hard, but Sally wasn't interested, and Troni was very happy about that. But Pingu didn't give up."
+    },
+    {
+      "urdu": "وہ کوشش کرتا رہا اور آخر میں اسے ایک ملائم پتھر مل ہی گیا۔ پر جیسے ہی وہ مڑا سیلی جا چکی تھی۔ بہت افسوس ہوا دوست۔ لگتا ہے اسے تم میں ذرا بھی دلچسپی نہیں ہے۔",
+      "english": "He kept trying, and finally he found a smooth pebble. But as soon as he turned around, Sally was gone. I'm so sorry, friend. It seems she's not interested in you at all."
+    },
+    {
+      "urdu": "پنگو، مجھے تمہیں پہلے ہی بتا دینا چاہیے تھا پر میں نہیں چاہتا تھا کہ تم سیلی کو پسند نہ کرو۔ بات دراصل یہ ہے کہ پہلے بھی سیلی کا ایک ہم سفر تھا اور وہ طوفان کی وجہ سے گزر گیا۔ ہم پینگوین زندگی بھر کے لیے ایک ہی ہم سفر چنتے ہیں۔ مجھے لگا شاید تم اس کے خیالوں کو بدل سکو۔ پر امید مت کھونا ٹھیک ہے؟",
+      "english": "Pingu, I should have told you earlier, but I didn't want you to stop liking Sally. The thing is, Sally had a partner before, and he died in a storm. We penguins choose only one partner for life. I thought maybe you could change her mind. But don't lose hope, okay?"
+    },
+    {
+      "urdu": "مجھے اس کے بارے میں علم نہیں تھا۔ اگر اسے ایک دوست چاہیے تو میں اس کا دوست ضرور بنوں گا۔ دیکھو میں نے تمہارے پتھروں سے پائلہ بنا لیا ہے۔ پنگو تم میرے اچھے دوست ہو اور مجھے ایسے ہی پسند ہو۔ پنگو اور سیلی ایک دوسرے کی طرف دیکھ کر مسکرائے۔ پورے ویڈل نے خوشی منائی کیونکہ سیلی کو ایک دوست مل گیا تھا۔",
+      "english": "I didn't know about this. If she needs a friend, I'll definitely be her friend. Look, I made a pyramid from your pebbles. Pingu, you're a good friend, and I like you just the way you are. Pingu and Sally looked at each other and smiled. The whole waddle celebrated because Sally had found a friend."
+    },
+    {
+      "urdu": "وہ کیا تھا؟ ارے نہیں برف تو پگھل رہی ہے! ہر سال تھوڑی تھوڑی کر کے برف پگھل رہی تھی اور اس سے جگہ کے جانوروں کی جان خطرے میں تھی۔ پر اس سال نقصان کچھ زیادہ ہی ہو گیا تھا۔ برف تیزی سے پگھلی اور اس سے سمندر میں لہر اٹھی۔ پینگوینز ڈر گئے اور ادھر ادھر بھاگنے لگے۔",
+      "english": "What was that? Oh no, the ice is melting! Every year, the ice was melting little by little, and it was putting the local animals' lives in danger. But this year, the damage was much worse. The ice melted rapidly, causing a wave in the sea. The penguins got scared and started running everywhere."
+    },
+    {
+      "urdu": "اس ظالم لہر میں ان کے گھروں کا کچھ حصہ دھل گیا اور ساتھ ہی پنگو اور سیلی بھی سمندر میں جا گرے۔ وہ پیچھے مڑے اور جیسے ہی وہ واپس جانے والے تھے سیل پیچھے آ گیا۔ سیلی اور پنگو تیزی سے تیرنے لگے۔ انہیں جہاز دکھائی دیا اور اپنی جان بچانے کے لیے وہ اس جہاز کے پاس گئے۔ سیلی اور پنگو خوف زدہ تھے۔ وہ جہاز کے نچلے حصے میں چھپ گئے۔",
+      "english": "In that cruel wave, part of their homes was washed away, and Pingu and Sally fell into the sea. They turned back, and just as they were about to return, a seal appeared behind them. Sally and Pingu swam fast. They saw a ship and went towards it to save their lives. Sally and Pingu were terrified. They hid in the lower part of the ship."
+    },
+    {
+      "urdu": "زو میں جو انسان تھے ان سے یہ انسان بالکل ہی الگ ہیں۔ یہ بہت خوفناک ہیں۔ کہاں جا رہے ہیں یہ؟ کل تو نیا سال ہے نا۔ شاید وہ شہر جا رہے ہیں۔",
+      "english": "These humans are completely different from the ones at the zoo. These are very scary. Where are they going? Tomorrow is New Year, right? Maybe they're going to the city."
+    },
+    {
+      "urdu": "کیا ہوا؟ جب بھی میں اپنے شہر کے بارے میں سوچتا ہوں مجھے سنی کی یاد آتی ہے۔ میں اپنے لوگوں کے بیچ میں بہت خوش تھا لیکن مجھے اس کی یاد آتی ہے۔ سیلی پنگو کی طرف بڑے غور سے دیکھ رہی تھی۔ اسے پسند کرنے لگی تھی۔ وہ دونوں وہیں جہاز پر سو گئے۔ کچھ گھنٹے گزر گئے۔",
+      "english": "What's wrong? Whenever I think about my city, I remember Sunny. I was very happy among my people, but I miss him. Sally was looking at Pingu intently. She was starting to like him. They both fell asleep right there on the ship. A few hours passed."
+    },
+    {
+      "urdu": "کیا ہوا؟ ہم پہنچ گئے۔ آہ، کتنا خوبصورت ہے! چلو پانی میں کود کر واپس گھر کی طرف چلتے ہیں۔ تم تھوڑی دیر اور نہیں رکنا چاہتے کیا؟ شہر میں نئے سال کے جشن کے بارے میں میں نے بہت کچھ سنا ہے۔ میں اسے تمہارے ساتھ دیکھنا چاہتی ہوں۔",
+      "english": "What happened? We've arrived. Ah, how beautiful! Let's jump in the water and head back home. Don't you want to stay a little longer? I've heard so much about the New Year celebrations in the city. I want to watch it with you."
+    },
+    {
+      "urdu": "پنگو خوشی سے پھولے نہیں سما رہا تھا۔ اس نے رکنے کا فیصلہ کیا۔ بارہ بجنے میں کچھ دیر بچی تھی اور وہ دونوں وہیں چھپے رہے۔ آتش بازی دیکھنے کے لیے پنگو نے سیلی کو سب سے اچھی جگہ لے گیا۔",
+      "english": "Pingu couldn't contain his joy and decided to stay. There was still some time until midnight, and they both stayed hidden there. To watch the fireworks, Pingu took Sally to the best spot."
+    },
+    {
+      "urdu": "دو پینگوینز جو اپنی دنیا سے کافی دور تھے اور نئی دنیا کی تلاش کر رہے تھے، وہ بس بارہ بجنے کے انتظار میں تھے۔ اور تبھی انہیں خوشخبری ملی۔ پنگو! سنی! وہ آ گیا! سنی! یہ وہی ہے! میرا دوست! سنی اور پنگو دوڑے اور انہوں نے ایک دوسرے کو گلے لگایا۔",
+      "english": "Two penguins who were far from their world and searching for a new one were just waiting for midnight. And then they got good news. Pingu! Sunny! He's here! Sunny! It's him! My friend! Sunny and Pingu ran and hugged each other."
+    },
+    {
+      "urdu": "کیسے؟ میں نے تم سے کہا تھا نا کہ ایک دن قسمت ہم دونوں کو پھر سے ملوائے گی۔ تم کیسے ہو میرے دوست؟ کیا یہ تمہاری ہم سفر ہے؟ تم نے اپنی دنیا ڈھونڈ لی۔ بہت اچھے!",
+      "english": "How? I told you that one day fate would bring us together again. How are you, my friend? Is this your partner? You found your own world. Wonderful!"
+    },
+    {
+      "urdu": "سنی، پنگو، اور سیلی چاروں پتھر پر بیٹھے تھے۔ سنی نے پنگو کو بتایا کہ کیسے اس نے پینگوینز پر پڑھائی کرنے کا فیصلہ کیا اور جلدی وہ انٹارکٹیکا جانے والا ہے۔ سنی سمندری سفر پر جانے لگا تھا۔ اس نے پنگو سے وعدہ کیا کہ کل صبح ہی وہ ان کے گھر تک پہنچا دے گا۔ اور وہ اکثر ایک دوسرے سے ملتے رہیں گے۔",
+      "english": "Sunny, Pingu, and Sally sat on the rocks. Sunny told Pingu how he decided to study penguins and that he would soon be going to Antarctica. Sunny was about to embark on an ocean journey. He promised Pingu that he would take them home the next morning. And they would often meet each other."
+    },
+    {
+      "urdu": "کیا تم نے سنا سیلی؟ یہ مجھ سے ملنے آیا کریں گے! ارے دیکھو بارہ بج گئے! وہ سرد ہوا میں ایک ساتھ بیٹھے رہے اور نئے سال کی آتش بازی دیکھنے لگے۔ سنی اور پنگو آخر میں وہیں تھے جہاں انہیں ہونا تھا۔",
+      "english": "Did you hear, Sally? He'll come to visit me! Oh look, it's midnight! They sat together in the cold air and watched the New Year's fireworks. Sunny and Pingu were finally where they were meant to be."
+    },
+    {
+      "urdu": "جیسے جیسے وہ نئے سال کی اور بڑھ رہے تھے، سیلی نے پنگو کا ہاتھ تھام لیا۔ آخر میں اس نے خود کو شفا کر لیا تھا اور اسے پھر سے خود پر یقین ہونے لگا تھا۔ سیلی اور پنگو اب زندگی بھر کے لیے ہم سفر بن چکے تھے۔",
+      "english": "As they moved into the new year, Sally held Pingu's hand. She had finally healed herself and was starting to believe in herself again. Sally and Pingu were now partners for life."
+    },
+    {
+      "urdu": "پتا ہے نا وہ کیا کہتے ہیں۔ محبت میں خوشی ہے، پر دوستی میں جینا ہے۔",
+      "english": "You know what they say - there is happiness in love, but life is in friendship."
+    }
+  ]
+}
