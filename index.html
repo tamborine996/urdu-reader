@@ -585,7 +585,30 @@
 
         @keyframes saveFlash {
             0%, 100% { box-shadow: 0 0 0 var(--accent-azure-glow); }
-            50% { box-shadow: 0 0 30px var(--accent-azure); }
+        }
+
+        /* Toast notification */
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background: var(--ink-light);
+            color: var(--gold-antique);
+            padding: 12px 24px;
+            border-radius: 8px;
+            border: 1px solid var(--gold-antique);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+            font-size: 0.95rem;
+            z-index: 1000;
+            opacity: 0;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+            pointer-events: none;
+        }
+
+        .toast.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
         }
 
         /* Responsive */
@@ -836,6 +859,8 @@
         <div class="footer-ornament">◆ ◇ ◆</div>
     </div>
 
+    <div class="toast" id="toast">✓ Saved to vocabulary</div>
+
     <script>
         const STORAGE_KEY = 'urdu-reader-vocab';
         const BOOKMARK_KEY = 'urdu-reader-bookmarks';
@@ -970,14 +995,19 @@
                 word.addEventListener('click', function(e) {
                     const wordKey = this.dataset.word;
                     const paragraphPair = this.closest('.paragraph-pair');
+                    const isAlreadyHighlighted = this.classList.contains('highlighted');
 
+                    // Clear all highlights first
                     document.querySelectorAll('.word.highlighted').forEach(el => {
                         el.classList.remove('highlighted');
                     });
 
-                    paragraphPair.querySelectorAll(`.word[data-word="${wordKey}"]`).forEach(el => {
-                        el.classList.add('highlighted');
-                    });
+                    // If wasn't highlighted, highlight it (toggle behavior)
+                    if (!isAlreadyHighlighted) {
+                        paragraphPair.querySelectorAll(`.word[data-word="${wordKey}"]`).forEach(el => {
+                            el.classList.add('highlighted');
+                        });
+                    }
                 });
 
                 word.addEventListener('dblclick', function(e) {
@@ -989,8 +1019,18 @@
                     // Visual feedback
                     this.classList.add('saved-flash');
                     setTimeout(() => this.classList.remove('saved-flash'), 400);
+
+                    // Toast notification
+                    showToast();
                 });
             });
+        }
+
+        // Toast notification
+        function showToast() {
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 1500);
         }
 
         // Vocabulary functions
