@@ -1,0 +1,304 @@
+{
+  "id": "royal-kitchen",
+  "category": "feature",
+  "title": {
+    "urdu": "وہ صدیوں پرانا شاہی باورچی خانہ جہاں امرا اور غریبوں دونوں کے لیے کھانا پکنا کبھی بند نہیں ہوا",
+    "english": "The Centuries-Old Royal Kitchen Where Cooking for Both the Rich and the Poor Has Never Stopped"
+  },
+  "vocabulary": {
+    "صدیوں": "centuries",
+    "صدیوں پرانا": "centuries old",
+    "صدیوں پرانی": "centuries old",
+    "شاہی": "royal",
+    "باورچی خانہ": "kitchen",
+    "باورچی خانے": "kitchens",
+    "باورچی خانوں": "kitchens",
+    "امرا": "nobles/wealthy",
+    "غریبوں": "poor people",
+    "غریب": "poor",
+    "کھانا": "food",
+    "کھانے": "food/meals",
+    "پکنا": "to cook",
+    "پکانا": "to cook",
+    "بند": "closed/stopped",
+    "ریاست": "state",
+    "مزدوروں": "workers",
+    "مزدور": "worker",
+    "احتیاط": "caution/care",
+    "بحالی": "restoration",
+    "سابق": "former",
+    "نوابی": "nawabi/princely",
+    "حکمرانوں": "rulers",
+    "حکمران": "ruler",
+    "پکوان": "dishes/cuisine",
+    "پکوانوں": "dishes",
+    "وسیع": "vast/expansive",
+    "مقبرہ": "mausoleum",
+    "اجتماع گاہ": "gathering place",
+    "واقع": "situated",
+    "وراثت": "heritage",
+    "اشرافیہ": "elite/nobility",
+    "عوام": "public/people",
+    "فراہم": "provide",
+    "عروج": "peak/zenith",
+    "خاندان": "family",
+    "عام": "common/ordinary",
+    "مذہبی": "religious",
+    "اجتماعات": "gatherings",
+    "خاص": "special",
+    "مواقع": "occasions",
+    "نیم خودمختار": "semi-autonomous",
+    "نوابوں": "nawabs",
+    "تاریخی": "historical",
+    "خطہ": "region",
+    "روایات": "traditions",
+    "روایت": "tradition",
+    "سلطنتوں": "kingdoms",
+    "سلطنت": "kingdom",
+    "زندہ": "alive/living",
+    "قائم": "established",
+    "یادگار": "monument",
+    "یادگاروں": "monuments",
+    "استعمال": "use",
+    "رمضان": "Ramadan",
+    "محرم": "Muharram",
+    "مقدس": "sacred/holy",
+    "مہینوں": "months",
+    "ہزاروں": "thousands",
+    "مؤرخین": "historians",
+    "مؤرخ": "historian",
+    "مورخ": "historian",
+    "برطانوی": "British",
+    "تجارتی": "commercial/trade",
+    "ادارہ": "institution",
+    "ادارے": "institution",
+    "رقم": "amount/money",
+    "شرط": "condition",
+    "دیکھ بھال": "maintenance",
+    "سود": "interest (financial)",
+    "آزاد": "free/independent",
+    "بینک": "bank",
+    "منتقل": "transferred",
+    "حکومت": "government",
+    "نگرانی": "supervision",
+    "انتظامات": "arrangements",
+    "اخراجات": "expenses",
+    "معیار": "standard/quality",
+    "نسلوں": "generations",
+    "نسل": "generation",
+    "عمارت": "building",
+    "کہانی": "story",
+    "نفیس": "exquisite",
+    "نقش و نگار": "engravings/artwork",
+    "اینٹوں": "bricks",
+    "اینٹیں": "bricks",
+    "دیواریں": "walls",
+    "دیواروں": "walls",
+    "خستہ حالی": "dilapidation",
+    "پلستر": "plaster",
+    "فرش": "floor",
+    "تشویشناک": "alarming",
+    "زوال": "decline/decay",
+    "مقامی": "local",
+    "باشندوں": "residents",
+    "آثارِ قدیمہ": "archaeology",
+    "منصوبہ": "project/plan",
+    "بوسیدہ": "decayed/crumbling",
+    "ڈھانچے": "structure",
+    "ڈھانچا": "structure",
+    "اصل": "original",
+    "چونا": "lime",
+    "گارا": "mortar",
+    "محفوظ": "preserved",
+    "مغلیہ دور": "Mughal era",
+    "جدید": "modern",
+    "تعمیرات": "constructions",
+    "تعمیر": "construction",
+    "سیمنٹ": "cement",
+    "طرزِ تعمیر": "architectural style",
+    "وارث": "heir",
+    "ثقافت": "culture",
+    "نمائندگی": "representation",
+    "فرض": "duty",
+    "وصیت": "will/testament",
+    "خدمت": "service",
+    "عزم": "determination",
+    "جڑواں": "twin",
+    "تصور": "concept",
+    "کارآمد": "useful/effective",
+    "دہائیوں": "decades",
+    "تبرک": "blessed offering",
+    "سحری": "pre-dawn meal",
+    "افطار": "breaking fast meal",
+    "برتن": "utensils/pots",
+    "بیواؤں": "widows",
+    "ضروریات": "needs/necessities",
+    "مساجد": "mosques",
+    "ضرورت مندوں": "needy people",
+    "نمازیوں": "worshippers",
+    "سادہ": "simple",
+    "سالن": "curry",
+    "روٹیاں": "breads",
+    "کباب": "kebabs",
+    "مٹھائیاں": "sweets",
+    "سبزی": "vegetable",
+    "پراٹھے": "parathas",
+    "دالیں": "lentils",
+    "سوگ": "mourning",
+    "مقدار": "quantity",
+    "وزن": "weight",
+    "تسلسل": "continuity",
+    "مرمت": "repair",
+    "روح": "soul/spirit"
+  },
+  "paragraphs": [
+    {
+      "urdu": "انڈیا کی ریاست اتر پردیش میں، مزدوروں کی ایک ٹیم احتیاط سے ایک صدیوں پرانے شاہی باورچی خانے کی بحالی کر رہی ہے، جو کبھی سابق نوابی ریاست اودھ کے حکمرانوں کے لیے شاہی پکوان بنایا کرتا تھا۔",
+      "english": "In the Indian state of Uttar Pradesh, a team of workers is carefully restoring a centuries-old royal kitchen, which once prepared royal dishes for the rulers of the former princely state of Awadh."
+    },
+    {
+      "urdu": "لکھنؤ کے وسیع 'چھوٹا امام باڑہ کمپلیکس' جو ایک مقبرہ اور اجتماع گاہ ہے کے اندر واقع یہ باورچی خانہ ایک مختلف قسم کی شاہی وراثت کی یاد دلاتی ہے۔ سنہ 1837 میں سابق اودھ حکمران محمد علی شاہ نے اسے تعمیر کیا تھا اور یہ جگہ صرف اشرافیہ ہی نہیں بلکہ عوام کو بھی کھانا فراہم کرتی تھی۔",
+      "english": "Situated within the expansive 'Chhota Imambara Complex' in Lucknow — a mausoleum and gathering place — this kitchen is a reminder of a different kind of royal heritage. Built in 1837 by the former Awadh ruler Muhammad Ali Shah, this place served food not only to the elite but also to the common people."
+    },
+    {
+      "urdu": "اپنے عروج پر یہاں کے کھانے شاہی خاندان اور عام لوگوں دونوں کے لیے تیار کیے جاتے تھے، خاص طور پر مذہبی اجتماعات اور خاص مواقع پر۔",
+      "english": "At its peak, meals here were prepared for both the royal family and ordinary people, especially during religious gatherings and special occasions."
+    },
+    {
+      "urdu": "انڈیا میں اب شاہی خاندان نہیں ہیں اور اودھ، جو کبھی نیم خودمختار مسلم نوابوں کی نوابی ریاست تھی، اب صرف وسطی اتر پردیش کا ایک تاریخی خطہ ہے۔",
+      "english": "India no longer has royal families, and Awadh, which was once a semi-autonomous princely state of Muslim nawabs, is now just a historical region in central Uttar Pradesh."
+    },
+    {
+      "urdu": "پھر بھی کچھ روایات ان سلطنتوں سے زیادہ عرصہ زندہ رہی ہیں جنھوں نے انھیں قائم کیا تھا۔",
+      "english": "Yet some traditions have outlived the kingdoms that established them."
+    },
+    {
+      "urdu": "تقریباً 200 سال بعد بھی، یہ باورچی خانہ محض ایک تاریخی یادگار نہیں بلکہ آج بھی استعمال میں ہے۔ یہ رمضان اور محرم کے مقدس مہینوں میں ہزاروں لوگوں کو کھانا فراہم کرتا ہے، اور یوں کمیونٹی سروس کی روایت کو جاری رکھے ہوئے ہے۔",
+      "english": "Nearly 200 years later, this kitchen is not merely a historical monument but is still in active use. It provides food to thousands of people during the sacred months of Ramadan and Muharram, thus continuing the tradition of community service."
+    },
+    {
+      "urdu": "مؤرخین کے مطابق 1839 میں محمد علی شاہ نے ایسٹ انڈیا کمپنی جو اُس وقت ایک برطانوی تجارتی ادارہ تھی کو 36 لاکھ روپے دیے، جو اُس زمانے میں ایک بہت بڑی رقم سمجھی جاتی تھی۔ شرط یہ تھی کہ کمپنی اودھ کے نوابوں کے تعمیر کردہ یادگاروں کی دیکھ بھال کرے گی، جبکہ باورچی خانہ اُس فنڈ سے حاصل ہونے والے سود پر چلتا رہے گا۔",
+      "english": "According to historians, in 1839, Muhammad Ali Shah gave 3.6 million rupees to the East India Company — then a British commercial institution — which was considered a very large sum at the time. The condition was that the Company would maintain the monuments built by the Nawabs of Awadh, while the kitchen would continue operating on the interest earned from that fund."
+    },
+    {
+      "urdu": "سنہ 1947 میں انڈیا کے آزاد ہونے کے بعد یہ رقم ایک مقامی بینک میں منتقل کر دی گئی۔",
+      "english": "After India's independence in 1947, the money was transferred to a local bank."
+    },
+    {
+      "urdu": "آج یہ باورچی خانہ حسین آباد ٹرسٹ کے زیرِ انتظام ہے جو ریاستی حکومت کی نگرانی میں کام کرتا ہے اور وہی سود استعمال کر کے باورچی خانے کے انتظامات اور اخراجات پورے کرتا ہے۔",
+      "english": "Today, the kitchen is managed by the Hussainabad Trust, which operates under the supervision of the state government and uses the same interest to cover the kitchen's arrangements and expenses."
+    },
+    {
+      "urdu": "یہ وراثت آج بھی زندہ ہے، کیونکہ یہاں اب بھی کھانے وہی معیار کے مطابق تیار کیے جاتے ہیں جو نسلوں پہلے طے کیے گئے تھے۔",
+      "english": "This heritage is still alive today, as food is still prepared here according to the same standards that were set generations ago."
+    },
+    {
+      "urdu": "لیکن کھانے سے آگے بڑھیں تو عمارت ایک مختلف کہانی سناتی ہے۔",
+      "english": "But look beyond the food and the building tells a different story."
+    },
+    {
+      "urdu": "وہ نفیس نقش و نگار اور مشہور اینٹوں کی دیواریں، جو کبھی باورچی خانے کی پہچان تھیں، اب خستہ حالی کا شکار ہیں، دیواروں سے پلستر جھڑ رہا ہے اور فرش کے کچھ حصے بیٹھنے لگے ہیں۔",
+      "english": "The exquisite engravings and famous brick walls, which were once the kitchen's hallmark, are now in a state of dilapidation — plaster is peeling off the walls and parts of the floor are beginning to sink."
+    },
+    {
+      "urdu": "اسی تشویشناک زوال نے مقامی باشندوں کے ایک گروہ کو بھارتی آثارِ قدیمہ سروے سے رجوع کرنے پر مجبور کیا، جیسا کہ سپرنٹنڈنگ ماہرِ آثارِ قدیمہ آفتاب حسین بتاتے ہیں۔",
+      "english": "This alarming decline prompted a group of local residents to approach the Archaeological Survey of India, as superintending archaeologist Aftab Hussain explains."
+    },
+    {
+      "urdu": "ادارے نے گذشتہ اکتوبر میں بحالی کا کام شروع کیا اور امید ہے کہ یہ منصوبہ مارچ کے آخر تک مکمل ہو جائے گا۔",
+      "english": "The institution began restoration work last October and hopes to complete the project by the end of March."
+    },
+    {
+      "urdu": "لیکن یہ منصوبہ صرف ایک بوسیدہ ڈھانچے کو بچانے کے بارے میں نہیں ہے۔",
+      "english": "But this project is not just about saving a crumbling structure."
+    },
+    {
+      "urdu": "اس بحالی کو منفرد بنانے والی بات یہ ہے کہ باورچی خانے کو بالکل اُس کی اصل حالت میں واپس لایا جا رہا ہے، چونے پر مبنی اصل گارا دوبارہ تیار کیا جا رہا ہے اور دیواروں کے نفیس نقش و نگار محفوظ کیے جا رہے ہیں۔",
+      "english": "What makes this restoration unique is that the kitchen is being returned to its original condition — the original lime-based mortar is being recreated and the exquisite wall engravings are being preserved."
+    },
+    {
+      "urdu": "حسین کے مطابق 'ہم بجھایا ہوا چونا بطور بنیاد استعمال کر رہے ہیں۔ اسے ایک ماہ تک بھگویا جاتا ہے اور پھر بیل گری کا گودا، کالی دال، قدرتی گوند، گڑ اور سرخ اینٹوں کی دھول کے ساتھ ملایا جاتا ہے۔'",
+      "english": "According to Hussain, 'We are using slaked lime as a base. It is soaked for a month and then mixed with wood apple pulp, black lentils, natural gum, jaggery, and red brick dust.'"
+    },
+    {
+      "urdu": "مزدوروں نے احتیاط سے یہ مقامی گارا دوبارہ تیار کیا ہے، جو مغلیہ دور میں عام استعمال ہوتا تھا لیکن جدید تعمیرات میں اب زیادہ تر سیمنٹ نے اس کی جگہ لے لی ہے۔",
+      "english": "The workers have carefully recreated this traditional mortar, which was commonly used during the Mughal era but has now been largely replaced by cement in modern construction."
+    },
+    {
+      "urdu": "انھوں نے مزید بتایا کہ 'لکھوری اینٹیں' — باریک، پکی ہوئی مٹی کی اینٹیں جو اودھی طرزِ تعمیر کی خاص پہچان ہیں — بھی استعمال کی جا رہی ہیں تاکہ ڈھانچے کی اصل شکل برقرار رہے۔",
+      "english": "He further explained that 'Lakhauri bricks' — thin, fired clay bricks that are a distinctive feature of Awadhi architectural style — are also being used to maintain the structure's original form."
+    },
+    {
+      "urdu": "اودھ کی شاہی نسل کے افراد کے لیے یہ بحالی ذاتی طور پر نہایت اہمیت رکھتی ہے۔",
+      "english": "For members of Awadh's royal lineage, this restoration holds deeply personal significance."
+    },
+    {
+      "urdu": "یاسر عباس، جو سابق حکمرانوں کے وارث ہیں کہتے ہیں کہ یہ کام نہ صرف ایک تاریخی ڈھانچے کو محفوظ رکھنے کے لیے ضروری ہے بلکہ اس 'صدیوں پرانی روایت اور ثقافت کو قائم رکھنے' کے لیے بھی ہے جس کی نمائندگی یہ باورچی خانہ کرتا ہے۔",
+      "english": "Yasir Abbas, an heir of the former rulers, says this work is necessary not only to preserve a historical structure but also to 'maintain the centuries-old tradition and culture' that this kitchen represents."
+    },
+    {
+      "urdu": "انھوں نے مزید کہا 'ہم پر فرض ہے کہ اس بادشاہ کی وصیت پوری کریں جس نے کھانے کی خدمت کی یہ روایت شروع کی تھی۔'",
+      "english": "He added, 'It is our duty to fulfill the will of the king who started this tradition of food service.'"
+    },
+    {
+      "urdu": "مؤرخ روشن تقی کہتے ہیں کہ بادشاہ نے یہ یقینی بنانے کا عزم کیا تھا کہ باورچی خانہ کبھی بند نہ ہو۔",
+      "english": "Historian Roshan Taqi says the king was determined to ensure the kitchen would never close."
+    },
+    {
+      "urdu": "کھانے پکانے کے بڑے پیمانے کو سنبھالنے کے لیے، انھوں نے چھوٹے امام باڑے کے دونوں طرف دو یکساں باورچی خانے تعمیر کیے — ایک ڈیزائن جو اودھی طرزِ تعمیر میں موجود ہم آہنگی کی جھلک بھی دکھاتا ہے۔",
+      "english": "To handle the large scale of cooking, he built two identical kitchens on either side of the Chhota Imambara — a design that also reflects the symmetry found in Awadhi architectural style."
+    },
+    {
+      "urdu": "یہ 'جڑواں باورچی خانوں' کا تصور آج بھی کارآمد ثابت ہو رہا ہے۔",
+      "english": "This concept of 'twin kitchens' is proving useful to this day."
+    },
+    {
+      "urdu": "تقی کے مطابق 'اس رمضان میں، جب ایک باورچی خانے میں بحالی کا کام جاری تھا، دوسرے میں کھانا پکانا جاری رہا۔'",
+      "english": "According to Taqi, 'This Ramadan, while restoration work was underway in one kitchen, cooking continued in the other.'"
+    },
+    {
+      "urdu": "کئی مقامی لوگوں کے لیے یہ باورچی خانے صرف کھانا پکانے کی جگہ سے بڑھ کر ہیں۔",
+      "english": "For many local people, these kitchens are more than just a place for cooking."
+    },
+    {
+      "urdu": "80 سالہ سید حیدر رضا اس جگہ کو اپنے دل کے قریب رکھتے ہیں، کیونکہ وہ دہائیوں سے یہاں آتے رہے ہیں۔",
+      "english": "80-year-old Syed Haider Raza holds this place close to his heart, having visited here for decades."
+    },
+    {
+      "urdu": "انھوں نے کہا 'میں بچپن سے چھوٹے امام باڑے آتا رہا ہوں تاکہ محرم کے دوران تبرک اور رمضان میں سحری اور افطار حاصل کر سکوں۔ بچپن میں ہم بڑے بڑے برتن دیکھتے تھے جن میں کھانا پک رہا ہوتا تھا۔ سب لوگ پیٹ بھر کر کھاتے تھے اور کھانا کبھی کم نہیں پڑتا تھا۔'",
+      "english": "He said, 'I have been coming to Chhota Imambara since childhood to receive blessed offerings during Muharram and pre-dawn and fast-breaking meals during Ramadan. As children, we would see huge pots with food cooking in them. Everyone would eat their fill and the food never ran out.'"
+    },
+    {
+      "urdu": "ہر رمضان میں، یہ باورچی خانہ غریبوں، بیواؤں اور اُن لوگوں کو کھانا فراہم کرتا ہے جو اپنی ضروریات پوری نہیں کر سکتے۔",
+      "english": "Every Ramadan, this kitchen provides food to the poor, widows, and those who cannot meet their basic needs."
+    },
+    {
+      "urdu": "روزانہ تقریباً 700 کوپن تقسیم کیے جاتے ہیں اور پکا ہوا کھانا 16 قریبی مساجد میں بھیجا جاتا ہے تاکہ ضرورت مندوں اور نمازیوں دونوں کو کھلایا جا سکے۔",
+      "english": "Approximately 700 coupons are distributed daily and cooked food is sent to 16 nearby mosques to feed both the needy and worshippers."
+    },
+    {
+      "urdu": "کھانے سادہ مگر پیٹ بھرنے والے ہوتے ہیں، جن میں گوشت کے سالن، روٹیاں، کباب، پھل اور مٹھائیاں شامل ہیں، جو لکھنؤ کی بھرپور کھانوں کی روایت کی عکاسی کرتے ہیں۔",
+      "english": "The meals are simple but filling, including meat curries, breads, kebabs, fruits, and sweets, reflecting Lucknow's rich culinary tradition."
+    },
+    {
+      "urdu": "محرم کے دوران، مینو بدل جاتا ہے۔ پہلے نو دنوں میں کھانے سادہ اور زیادہ تر سبزی پر مبنی ہوتے ہیں — میٹھے پراٹھے، دالیں اور آلو کا سالن بنیادی پکوانوں میں شامل ہیں۔ باقی 40 دن کے سوگ کے دوران، مزیدار گوشت کے سالن اور کباب شامل کیے جاتے ہیں۔",
+      "english": "During Muharram, the menu changes. In the first nine days, meals are simple and mostly vegetable-based — sweet parathas, lentils, and potato curry are among the basic dishes. During the remaining 40 days of mourning, delicious meat curries and kebabs are added."
+    },
+    {
+      "urdu": "باورچی خانے کے انچارج مرتضیٰ حسین راجو کے مطابق، مینو حتیٰ کہ کھانے کی مقدار بھی سابق حکمران کی وصیت میں درج ہے۔",
+      "english": "According to kitchen in-charge Murtaza Hussain Raju, the menu and even the quantity of food are documented in the former ruler's will."
+    },
+    {
+      "urdu": "مورخ روشن تقی کہتے ہیں 'اس میں نہ صرف پکوانوں کی اقسام درج ہیں بلکہ ان کا وزن اور معیار بھی۔ یہ معیار آج بھی سختی سے اپنائے جاتے ہیں۔'",
+      "english": "Historian Roshan Taqi says, 'It documents not only the types of dishes but also their weight and standards. These standards are still strictly followed today.'"
+    },
+    {
+      "urdu": "لکھنؤ کے رہائشیوں کے لیے یہ تسلسل ایک مانوس سکون کی طرح ہے۔ بحالی صرف ایک عمارت کی مرمت کے بارے میں نہیں بلکہ ایک ایسی روایت کو قائم رکھنے کے بارے میں ہے جو نسلوں سے جاری ہے۔",
+      "english": "For the residents of Lucknow, this continuity is like a familiar comfort. The restoration is not just about repairing a building but about maintaining a tradition that has continued for generations."
+    },
+    {
+      "urdu": "رضا، جو دہائیوں سے اس باورچی خانے میں آتے رہے ہیں، اسے سب سے بہتر انداز میں بیان کرتے ہیں — 'اس جگہ کی روح آج بھی وہی ہے۔ ایسا لگتا ہے جیسے کھانا اب بھی محمد علی شاہ کی طرف سے بھیجا جا رہا ہو۔'",
+      "english": "Raza, who has been visiting this kitchen for decades, puts it best — 'The soul of this place is still the same. It feels as if the food is still being sent by Muhammad Ali Shah.'"
+    }
+  ]
+}
