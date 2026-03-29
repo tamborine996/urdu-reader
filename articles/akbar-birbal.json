@@ -1,0 +1,150 @@
+{
+  "id": "akbar-birbal",
+  "category": "folk-tale",
+  "title": {
+    "urdu": "اکبر اور بیربل: چور کی تلاش",
+    "english": "Akbar and Birbal: Finding the Thief"
+  },
+  "vocabulary": {
+    "اکبر": "Akbar",
+    "بیربل": "Birbal",
+    "بادشاہ": "king/emperor",
+    "وزیر": "minister",
+    "دربار": "royal court",
+    "محل": "palace",
+    "چور": "thief",
+    "چوری": "theft",
+    "ہیرا": "diamond",
+    "ہیرے": "diamonds",
+    "قیمتی": "precious/valuable",
+    "زیور": "jewellery",
+    "خزانہ": "treasury",
+    "نوکر": "servant",
+    "نوکروں": "servants",
+    "ملازم": "employee",
+    "شک": "suspicion",
+    "شکایت": "complaint",
+    "تحقیقات": "investigation",
+    "انصاف": "justice",
+    "عقل": "intellect/wisdom",
+    "سمجھدار": "wise/intelligent",
+    "چالاک": "clever",
+    "تدبیر": "plan/strategy",
+    "حکم": "order/command",
+    "لاٹھی": "stick",
+    "لاٹھیاں": "sticks",
+    "جادو": "magic",
+    "جھوٹ": "lie",
+    "سچ": "truth",
+    "سچا": "truthful/true",
+    "جھوٹا": "liar/false",
+    "گناہ": "sin/guilt",
+    "ڈر": "fear",
+    "ڈرا": "scared",
+    "قصور": "fault/guilt",
+    "قصوروار": "guilty",
+    "بے قصور": "innocent",
+    "ثابت": "proved",
+    "پکڑا": "caught",
+    "اعتراف": "confession",
+    "خوش": "happy",
+    "خوشی": "happiness",
+    "حیران": "surprised/amazed",
+    "سب": "all/everyone",
+    "سبق": "lesson",
+    "اگلے دن": "next day",
+    "صبح": "morning",
+    "رات": "night",
+    "دیوار": "wall",
+    "کمرہ": "room",
+    "دروازہ": "door",
+    "بند": "closed/locked",
+    "کھلا": "open",
+    "آواز": "voice/sound",
+    "خاموش": "silent/quiet",
+    "ہنسا": "laughed",
+    "بتایا": "told/informed",
+    "سمجھایا": "explained",
+    "سوچا": "thought",
+    "کہا": "said",
+    "پوچھا": "asked",
+    "جواب": "answer",
+    "وجہ": "reason",
+    "طریقہ": "method/way",
+    "کامیاب": "successful",
+    "ناکام": "unsuccessful",
+    "شاباش": "well done/bravo",
+    "انعام": "reward",
+    "سزا": "punishment",
+    "معافی": "forgiveness",
+    "شرم": "shame",
+    "ہمیشہ": "always",
+    "کبھی نہیں": "never",
+    "آخر میں": "in the end/finally",
+    "فوراً": "immediately",
+    "یقین": "belief/trust",
+    "بھروسہ": "trust/confidence"
+  },
+  "paragraphs": [
+    {
+      "urdu": "بہت پرانے زمانے کی بات ہے۔ مغل بادشاہ اکبر اپنے دربار میں بیٹھے تھے۔ ان کے سب سے قریبی اور سمجھدار وزیر بیربل بھی موجود تھے۔",
+      "english": "This is a story from a very old time. The Mughal emperor Akbar was sitting in his royal court. His closest and wisest minister Birbal was also present."
+    },
+    {
+      "urdu": "اچانک محل کا ایک خاص نوکر دوڑتا ہوا دربار میں آیا۔ اس کے چہرے پر پریشانی صاف دکھائی دے رہی تھی۔ اس نے بادشاہ سے شکایت کی کہ محل کے خزانے سے ایک بہت قیمتی ہیرا غائب ہو گیا ہے۔",
+      "english": "Suddenly a special servant of the palace came running into the court. Worry was clearly visible on his face. He complained to the emperor that a very precious diamond had gone missing from the palace treasury."
+    },
+    {
+      "urdu": "اکبر بہت ناراض ہوئے۔ انہوں نے فوراً حکم دیا کہ تحقیقات شروع کی جائے۔ محل میں جتنے بھی نوکر اور ملازم تھے، سب پر شک تھا۔",
+      "english": "Akbar became very angry. He immediately ordered that an investigation be started. All the servants and employees in the palace were under suspicion."
+    },
+    {
+      "urdu": "بیربل نے بادشاہ سے کہا: 'جہاں پناہ، آپ فکر نہ کریں۔ میں اس چور کو پکڑ لوں گا۔ مجھے صرف ایک دن کا وقت دیں اور تمام ملازمین کو دربار میں بلائیں۔'",
+      "english": "Birbal said to the emperor: 'Your Majesty, don't worry. I will catch this thief. Just give me one day and call all the employees to the court.'"
+    },
+    {
+      "urdu": "اگلے دن صبح تمام نوکر اور ملازم دربار میں جمع ہوئے۔ بیربل نے ہر ایک کو برابر لمبائی کی ایک ایک لاٹھی دی اور کہا: 'یہ کوئی معمولی لاٹھیاں نہیں ہیں۔ ان میں جادو ہے۔'",
+      "english": "The next morning all the servants and employees gathered in the court. Birbal gave each one a stick of equal length and said: 'These are not ordinary sticks. They have magic in them.'"
+    },
+    {
+      "urdu": "بیربل نے سب کو سمجھایا: 'کل صبح جب تم واپس آؤ گے تو جس کی لاٹھی دو انچ بڑھ گئی ہو گی، وہی چور ہے۔ یہ جادوئی لاٹھیاں چور کو پکڑ لیتی ہیں۔'",
+      "english": "Birbal explained to everyone: 'When you come back tomorrow morning, whoever's stick has grown two inches will be the thief. These magic sticks catch the thief.'"
+    },
+    {
+      "urdu": "سب نوکر یہ سن کر حیران رہ گئے۔ وہ اپنی اپنی لاٹھیاں لے کر گھر چلے گئے۔ اکبر نے بیربل سے پوچھا: 'بیربل، تم کیا کر رہے ہو؟ کیا لاٹھیاں واقعی بڑھتی ہیں؟'",
+      "english": "All the servants were amazed to hear this. They took their sticks and went home. Akbar asked Birbal: 'Birbal, what are you doing? Do sticks actually grow?'"
+    },
+    {
+      "urdu": "بیربل ہنسا اور بولا: 'جہاں پناہ، لاٹھیاں نہیں بڑھتیں۔ لیکن جو چور ہو گا وہ ڈرے گا۔ وہ سوچے گا کہ اگر میری لاٹھی بڑھ گئی تو میں پکڑا جاؤں گا۔ اس لیے وہ رات کو اپنی لاٹھی سے دو انچ کاٹ دے گا۔'",
+      "english": "Birbal laughed and said: 'Your Majesty, sticks don't grow. But whoever is the thief will be afraid. They will think that if my stick grows, I will be caught. So they will cut two inches from their stick at night.'"
+    },
+    {
+      "urdu": "اکبر یہ سن کر بہت حیران ہوئے۔ انہوں نے بیربل کی عقل اور چالاکی کی داد دی۔ اگلے دن تمام نوکر صبح دربار میں آئے اور اپنی اپنی لاٹھیاں پیش کیں۔",
+      "english": "Akbar was very amazed to hear this. He praised Birbal's intelligence and cleverness. The next day all the servants came to court in the morning and presented their sticks."
+    },
+    {
+      "urdu": "بیربل نے سب کی لاٹھیاں دیکھیں۔ آخر میں ایک نوکر کی لاٹھی دوسروں سے دو انچ چھوٹی تھی۔ بیربل نے فوراً اس کی طرف اشارہ کیا اور کہا: 'یہی چور ہے جہاں پناہ!'",
+      "english": "Birbal examined all the sticks. In the end, one servant's stick was two inches shorter than the others. Birbal immediately pointed at him and said: 'This is the thief, Your Majesty!'"
+    },
+    {
+      "urdu": "وہ نوکر ڈر گیا۔ اس نے دیکھا کہ اس کا قصور ثابت ہو گیا ہے۔ اس نے سر جھکا لیا اور اعتراف کر لیا کہ ہاں، اسی نے خزانے سے ہیرا چرایا تھا۔",
+      "english": "The servant got scared. He saw that his guilt had been proved. He bowed his head and confessed that yes, it was he who had stolen the diamond from the treasury."
+    },
+    {
+      "urdu": "اکبر نے اس نوکر کو سزا دی اور ہیرا واپس لے لیا۔ پھر بادشاہ نے بیربل کو شاباش دی اور انعام پیش کیا۔ بیربل نے کہا: 'جہاں پناہ، یہ میری عقل کا نہیں، چور کے ڈر کا کمال تھا۔'",
+      "english": "Akbar punished that servant and recovered the diamond. Then the emperor praised Birbal and offered a reward. Birbal said: 'Your Majesty, this was not the wonder of my intelligence, but of the thief's fear.'"
+    },
+    {
+      "urdu": "اکبر نے ہنستے ہوئے کہا: 'بیربل، تم واقعی بے مثال ہو۔ تم نے بغیر کسی لڑائی جھگڑے کے، صرف سمجھداری سے چور کو پکڑ لیا۔ یہی سچا انصاف ہے۔'",
+      "english": "Akbar laughed and said: 'Birbal, you are truly incomparable. You caught the thief with only wisdom, without any fight or quarrel. This is true justice.'"
+    },
+    {
+      "urdu": "اس کہانی کا سبق یہ ہے کہ جھوٹ اور چوری کرنے والا ہمیشہ ڈرتا رہتا ہے۔ یہی ڈر آخر میں اسے پکڑوا دیتا ہے۔ سچ اور ایمانداری کا راستہ ہی سب سے بہتر ہے۔",
+      "english": "The lesson of this story is that a person who lies and steals always lives in fear. This same fear exposes them in the end. The path of truth and honesty is always the best."
+    },
+    {
+      "urdu": "اور بیربل کی عقل و تدبیر کی داستانیں آج بھی لوگوں کو یاد ہیں۔ انہوں نے ثابت کیا کہ طاقت سے نہیں، عقل سے بڑے بڑے مسئلے حل ہو جاتے ہیں۔",
+      "english": "And the stories of Birbal's intelligence and strategy are still remembered by people today. He proved that the greatest problems can be solved not with force, but with wisdom."
+    }
+  ]
+}
