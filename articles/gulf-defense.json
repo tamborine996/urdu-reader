@@ -1,0 +1,259 @@
+{
+  "id": "gulf-defense",
+  "category": "news",
+  "title": {
+    "urdu": "امریکی اڈوں، دفاعی معاہدوں کے باوجود ایرانی حملوں پر سوال: کیا خلیجی ممالک کو نئی حکمت عملی کی ضرورت ہے؟",
+    "english": "Questions Over Iranian Attacks Despite US Bases and Defense Agreements: Do Gulf States Need a New Strategy?"
+  },
+  "vocabulary": {
+    "اڈوں": "bases",
+    "اڈے": "bases",
+    "دفاعی": "defense",
+    "دفاع": "defense",
+    "معاہدوں": "agreements",
+    "معاہدے": "agreements",
+    "باوجود": "despite",
+    "ایرانی": "Iranian",
+    "ایران": "Iran",
+    "حملوں": "attacks",
+    "حملے": "attacks",
+    "حملہ": "attack",
+    "خلیجی": "Gulf",
+    "ممالک": "countries",
+    "حکمت عملی": "strategy",
+    "ضرورت": "need",
+    "جنگ": "war",
+    "خطے": "region",
+    "خطرے": "threats",
+    "خطرہ": "threat",
+    "دفاعی نظام": "defense system",
+    "افادیت": "effectiveness",
+    "سوالات": "questions",
+    "بڑی طاقتوں": "major powers",
+    "غیر ملکی": "foreign",
+    "فوجی": "military",
+    "فوجی اڈوں": "military bases",
+    "میزبانی": "hosting",
+    "انتظامات": "arrangements",
+    "کشیدگی": "tensions",
+    "حفاظت": "protection",
+    "شراکت داریوں": "partnerships",
+    "شراکت داری": "partnership",
+    "نوعیت": "nature",
+    "مستقبل": "future",
+    "سکیورٹی": "security",
+    "سلامتی": "security",
+    "اتحادوں": "alliances",
+    "انحصار": "reliance",
+    "حکام": "officials",
+    "نظرثانی": "review",
+    "مطالبہ": "demand",
+    "مجبور": "compelled",
+    "وزارت خارجہ": "Ministry of Foreign Affairs",
+    "ترجمان": "spokesperson",
+    "پریس کانفرنس": "press conference",
+    "مشترکہ": "joint",
+    "علاقائی": "regional",
+    "ازسرنو": "afresh",
+    "جائزہ": "review",
+    "کارگر": "effective",
+    "رابطہ کاری": "coordination",
+    "متفقہ": "unified",
+    "موقف": "stance",
+    "ہم آہنگی": "harmony",
+    "مضبوط": "strengthen",
+    "موثر": "effective",
+    "یقینی": "ensure",
+    "طویل مدت": "long term",
+    "مؤثر": "effective",
+    "صحافی": "journalist",
+    "ماہر": "expert",
+    "ردعمل": "response",
+    "انٹرویو": "interview",
+    "تنازع": "conflict",
+    "ذمہ داری": "responsibility",
+    "مستثنیٰ": "exempt",
+    "رپورٹس": "reports",
+    "خاموشی": "silently",
+    "ترغیب": "encouragement",
+    "کمزور": "weaken",
+    "خواہشمند": "desirous",
+    "بین الاقوامی": "international",
+    "منفی اثرات": "negative effects",
+    "ہچکچا": "hesitant",
+    "رکاوٹ": "deterrent",
+    "ڈیٹرنٹ": "deterrent",
+    "میزائلوں": "missiles",
+    "میزائل": "missile",
+    "صلاحیت": "capability",
+    "صلاحیتوں": "capabilities",
+    "فیصلہ سازوں": "decision makers",
+    "دانشمندی": "wisdom",
+    "مفادات": "interests",
+    "مفاد": "interest",
+    "مدنظر": "considering",
+    "ترجیح": "priority",
+    "سٹریٹجک صبر": "strategic patience",
+    "عکاسی": "reflection",
+    "ڈرونز": "drones",
+    "ڈرون": "drone",
+    "ذخیرے": "stockpiles",
+    "سرمایہ کاری": "investment",
+    "سینسرز": "sensors",
+    "تعینات": "deployed",
+    "متبادل": "alternative",
+    "متنوع": "diversify",
+    "ہتھیاروں": "weapons",
+    "ہتھیار": "weapons",
+    "اقتصادی": "economic",
+    "سٹریٹیجک": "strategic",
+    "انضمام": "integration",
+    "مزاحمتی": "resistance",
+    "صنعتوں": "industries",
+    "ترقی": "development",
+    "فضائی دفاع": "air defense",
+    "انٹرسیپٹرز": "interceptors",
+    "مہارت": "expertise",
+    "شراکت داروں": "partners",
+    "فروخت": "sell",
+    "مربوط نظام": "integrated system",
+    "سفارت کاری": "diplomacy",
+    "استحکام": "stability",
+    "برقرار": "maintain",
+    "جارحانہ": "aggressive",
+    "انفراسٹرکچر": "infrastructure",
+    "نقصانات": "losses",
+    "توپ خانے": "artillery",
+    "حساس": "sensitive",
+    "قابل غور": "noteworthy",
+    "اعلان": "announcement",
+    "تجربات": "experiences",
+    "اشتراک": "sharing"
+  },
+  "paragraphs": [
+    {
+      "urdu": "خطے میں حالیہ جنگ نے خلیجی ممالک میں دفاعی نظام کی افادیت کے بارے میں سنگین سوالات اٹھائے ہیں، خاص طور پر بڑی طاقتوں کے ساتھ دفاعی معاہدوں کے وجود اور ان ممالک کی سرزمین پر غیر ملکی فوجی اڈوں کی میزبانی کی روشنی میں۔",
+      "english": "The recent war in the region has raised serious questions about the effectiveness of defense systems in Gulf countries, particularly in light of the existence of defense agreements with major powers and the hosting of foreign military bases on these countries' soil."
+    },
+    {
+      "urdu": "بظاہر یہ انتظامات کشیدگی کو روکنے یا خلیجی ممالک کی مکمل حفاظت کے لیے کافی نہیں تھے اور اسی وجہ سے دفاعی شراکت داریوں کی نوعیت اور ان کے مستقبل کے وسیع تر احاطے پر سوال اٹھ رہے ہیں۔",
+      "english": "Apparently these arrangements were not sufficient to prevent tensions or fully protect Gulf countries, and for this reason questions are being raised about the nature of defense partnerships and their broader future scope."
+    },
+    {
+      "urdu": "اس حقیقت کے باوجود کہ متعدد خلیجی ریاستوں کے امریکہ اور مغربی شراکت داروں کے ساتھ سکیورٹی معاہدے ہیں، جنگ کے دوران بحران کے لمحات میں ان اتحادوں پر مکمل انحصار نے خلیجی حکام کو دفاعی آپشنز پر جامع نظرثانی کا مطالبہ کرنے پر مجبور کیا ہے۔",
+      "english": "Despite the fact that multiple Gulf states have security agreements with the US and Western partners, complete reliance on these alliances during crisis moments in the war has compelled Gulf officials to demand a comprehensive review of defense options."
+    },
+    {
+      "urdu": "ان میں قطری وزارت خارجہ کے ترجمان ماجد الانصاری بھی شامل ہیں، جنھوں نے ایک حالیہ پریس کانفرنس میں اشارہ دیا کہ خلیجی ریاستوں کو موجودہ جنگ کی روشنی میں اپنے مشترکہ علاقائی سلامتی کے نظام کا ازسرنو جائزہ لینے کی ضرورت ہے۔",
+      "english": "Among them is the Qatari Ministry of Foreign Affairs spokesperson Majed Al-Ansari, who indicated at a recent press conference that Gulf states need to review their joint regional security system afresh in light of the current war."
+    },
+    {
+      "urdu": "انھوں نے یہ بھی واضح کیا کہ خلیجی ریاستوں کی دفاعی شراکت داری جنگ کے دوران دفاعی انداز میں کارگر ثابت ہوئی ہے۔ انہوں نے مزید کہا کہ خلیجی ریاستوں کو موجودہ خطرات سے نمٹنے کے لیے علاقائی رابطہ کاری کی سطح پر ایک متفقہ موقف کی ضرورت ہے۔",
+      "english": "He also clarified that the Gulf states' defense partnerships have proved effective in a defensive capacity during the war. He further added that Gulf states need a unified stance at the level of regional coordination to deal with current threats."
+    },
+    {
+      "urdu": "ماجد الانصاری کے بیانات سے پتہ چلتا ہے کہ اگرچہ اتحادیوں کے ساتھ فوجی معاہدے دفاعی طور پر کامیاب رہے ہیں لیکن صرف اتحادیوں پر انحصار ناکافی ہے، اور یہ کہ خلیجی ریاستوں کے درمیان ہم آہنگی کو مضبوط کیا جانا چاہیے تاکہ مستقبل کے کسی بھی خطرے کا متحد اور موثر جواب یقینی بنایا جا سکے۔",
+      "english": "Al-Ansari's statements indicate that although military agreements with allies have been successful defensively, reliance on allies alone is insufficient, and that harmony among Gulf states should be strengthened to ensure a united and effective response to any future threat."
+    },
+    {
+      "urdu": "یہ بحث ایک بنیادی سوال اٹھاتی ہے کہ آیا بڑی طاقتوں پر انحصار طویل مدت میں ایک مؤثر خلیجی آپشن رہے گا یا نئی دفاعی شراکت داری سامنے آ سکتی ہے؟",
+      "english": "This debate raises a fundamental question: will reliance on major powers remain an effective Gulf option in the long term, or could new defense partnerships emerge?"
+    },
+    {
+      "urdu": "امریکی صحافی سیبسٹین روبلن دفاعی امور کے ماہر ہیں۔ ان کا خیال ہے کہ امریکہ نے (اسرائیل کے ساتھ مل کر) خلیجی ریاستوں میں واقع امریکی اڈوں کی بنیاد پر ایران کے خلاف جنگ شروع کی جس کے نتیجے میں ان ممالک کے خلاف ایرانی ردعمل سامنے آیا ہے۔",
+      "english": "American journalist Sebastian Roblin is a defense affairs expert. He believes that the US (together with Israel) launched a war against Iran from US bases located in Gulf states, resulting in Iranian retaliation against these countries."
+    },
+    {
+      "urdu": "بی بی سی نیوز عربی کے ساتھ ایک انٹرویو میں روبلن نے کہا کہ خلیجی ریاستیں اس تنازع میں ذمہ داری سے مکمل طور پر مستثنیٰ نہیں ہیں۔ انھوں نے ان رپورٹس کا حوالہ دیا جن کے مطابق کچھ ممالک نے 'خاموشی سے' امریکہ کو ایران پر حملہ کرنے کی ترغیب دی اور ایران کو کمزور کرنے کے موقع کے طور پر دیکھا کیوں کہ اسے ایک مستقل خطرہ سمجھا جاتا ہے۔",
+      "english": "In an interview with BBC News Arabic, Roblin said that Gulf states are not completely exempt from responsibility in this conflict. He cited reports according to which some countries 'silently' encouraged the US to attack Iran and saw it as an opportunity to weaken Iran because it is considered a permanent threat."
+    },
+    {
+      "urdu": "انھوں نے مزید کہا کہ 'یقیناً، قطر اور بحرین جیسی دیگر چھوٹی خلیجی ریاستیں بھی تھیں جو اس جنگ کی خواہشمند نہیں تھیں۔'",
+      "english": "'Of course, there were also other smaller Gulf states like Qatar and Bahrain that were not desirous of this war.'"
+    },
+    {
+      "urdu": "واشنگٹن میں خلیجی بین الاقوامی فورم کی ایگزیکٹو ڈائریکٹر دانیہ ظفر کا ماننا ہے کہ ایران پر امریکی حملے سے خلیجی ریاستوں کی سلامتی پر کئی طرح سے منفی اثرات مرتب ہوں گے۔",
+      "english": "Dania Zafar, Executive Director of the Gulf International Forum in Washington, believes that the US attack on Iran will have negative effects on the security of Gulf states in several ways."
+    },
+    {
+      "urdu": "بی بی سی نیوز عربی کے ساتھ ایک انٹرویو میں دانیہ ظفر نے کہا کہ 'ایران خلیجی ریاستوں پر امریکہ کے حملے سے پہلے کسی بھی طرح سے حملہ کرنے سے ہچکچا رہا تھا، جس کا مطلب ہے کہ امریکی موجودگی ایک رکاوٹ کا کام کرتی ہے، کیونکہ ایران نے اس عرصے کے دوران خلیجی ریاستوں میں سے کسی پر حملہ کرنے کی کوشش نہیں کی، جس کا مطلب یہ ہے کہ ڈیٹرنٹ امن کے وقت میں کارآمد تھا۔'",
+      "english": "In an interview with BBC News Arabic, Dania Zafar said that 'Iran was hesitant to attack Gulf states in any way before the US attack, which means the American presence serves as a deterrent, because Iran did not attempt to attack any of the Gulf states during that period, meaning the deterrent was effective in peacetime.'"
+    },
+    {
+      "urdu": "کویت یونیورسٹی کے شعبہ سیاسیات کے اسسٹنٹ پروفیسر حماد التھونین کا خیال ہے کہ 'مسئلہ فوجی معاہدوں اور کوتاہیوں میں نہیں ہے، بلکہ فیصلہ سازوں کی صلاحیتوں میں ہے کہ وہ ملکوں کے درمیان تعلقات کو دانشمندی اور ذمہ داری کے ساتھ چلا سکتے ہیں۔'",
+      "english": "Hammad Al-Thunayan, Assistant Professor in the Department of Political Science at Kuwait University, believes that 'the problem is not in military agreements and shortcomings, but in the capabilities of decision makers to manage relations between countries with wisdom and responsibility.'"
+    },
+    {
+      "urdu": "ان کے خیال میں 'بنیادی مسئلہ یہ ہے کہ امریکہ نے خلیجی مفادات کو مدنظر رکھے بغیر اسرائیلی وزیر اعظم نیتن یاہو کی انتظامیہ کے مقاصد کو ترجیح دیتے ہوئے اس جنگ میں داخل ہونے کا انتخاب کیا۔'",
+      "english": "In his view, 'the fundamental problem is that the US chose to enter this war while prioritizing the objectives of Israeli Prime Minister Netanyahu's administration without considering Gulf interests.'"
+    },
+    {
+      "urdu": "بی بی سی عربی کے ساتھ ایک انٹرویو میں التھونین نے مزید کہا کہ ایران کے ساتھ خلیجی ریاستوں کے تعلقات کشیدگی کے کئی مراحل سے گزرے ہیں، لیکن ان ممالک نے زیادہ تر سلامتی اور استحکام کو برقرار رکھنے کے لیے سفارت کاری کو ترجیح دی ہے۔",
+      "english": "In an interview with BBC Arabic, Al-Thunayan further said that the Gulf states' relations with Iran have gone through several phases of tension, but these countries have mostly prioritized diplomacy to maintain security and stability."
+    },
+    {
+      "urdu": "بہت سے لوگوں نے حیرت کا اظہار بھی کیا ہے کہ خلیجی ریاستوں نے ایرانی حملوں کے جواب میں اب تک فوجی ردعمل کیوں نہیں دیا؟",
+      "english": "Many people have also expressed surprise at why Gulf states have not given a military response to Iranian attacks so far."
+    },
+    {
+      "urdu": "دانیہ ظفر کہتی ہیں کہ خلیجی ریاستیں ایرانی حملوں کے خلاف مؤثر طریقے سے اپنا دفاع کرنے میں کامیاب رہی ہیں۔ ان کا کہنا تھا کہ قطر کی میزائلوں کو روکنے کی شرح زیادہ تر دنوں میں 100 فیصد تک رہی۔",
+      "english": "Dania Zafar says that Gulf states have been successful in effectively defending themselves against Iranian attacks. She said that Qatar's missile interception rate was up to 100 percent on most days."
+    },
+    {
+      "urdu": "اگرچہ خلیجی ریاستیں ایران کے ساتھ براہ راست جنگ کرنے کی صلاحیت رکھتی ہیں، دانیہ ظفر کا خیال ہے کہ کسی بھی حملے کا ایران کی جانب سے کہیں زیادہ جارحانہ جواب دیا جائے گا، جس سے ان کے اہم انفراسٹرکچر کو خطرہ لاحق ہو گا اور اہم نقصانات ہوں گے۔",
+      "english": "Although Gulf states have the capability for direct war with Iran, Dania Zafar believes that any attack would be met with a far more aggressive response from Iran, endangering their critical infrastructure and causing significant losses."
+    },
+    {
+      "urdu": "التھونین نے دعویٰ کیا کہ خلیجی فضائی دفاع نے تقریباً 94 فیصد ایرانی میزائلوں کو روکا، جو دفاعی سرمایہ کاری کی افادیت کو ظاہر کرتا ہے۔",
+      "english": "Al-Thunayan claimed that Gulf air defense intercepted approximately 94 percent of Iranian missiles, which demonstrates the effectiveness of defense investment."
+    },
+    {
+      "urdu": "ان کا خیال ہے کہ 'خلیجی ریاستوں کی فوجی کارروائی کا سہارا لینے میں ہچکچاہٹ تین وجوہات کی وجہ سے ہے: یہ ہماری جنگ نہیں ہے، ہم نے اسے شروع نہیں کیا، اور یہ ہمارے مفاد میں نہیں ہے، یہ سٹریٹجک صبر کی عکاسی ہے، صلاحیت کی کمی نہیں۔'",
+      "english": "He believes that 'the Gulf states' hesitation to resort to military action is due to three reasons: this is not our war, we did not start it, and it is not in our interest — this reflects strategic patience, not a lack of capability.'"
+    },
+    {
+      "urdu": "سیبسٹین روبلن کا خیال ہے کہ جنگ نے خلیجی ریاستوں کے لیے ایرانی ڈرونز کے خطرے کو بے نقاب کیا جنھیں ٹریک کرنا اور روکنا مشکل ہو جاتا ہے۔ انہوں نے مزید کہا کہ ان کی کم قیمت ان کے خلاف پیٹریاٹ یا THAAD جیسے مہنگے میزائلوں کو معاشی طور پر ناکارہ بنا دیتی ہے۔",
+      "english": "Sebastian Roblin believes that the war has exposed the threat of Iranian drones to Gulf states, which become difficult to track and intercept. He further added that their low cost makes using expensive missiles like Patriot or THAAD against them economically impractical."
+    },
+    {
+      "urdu": "روبلن نے وضاحت کی کہ گلف ڈیفنس مانیٹرنگ کے یوکرائنی مبصرین کی طرف سے ایسی رپورٹس ہیں جو اس بات کی نشاندہی کرتی ہیں کہ جنگ کے طویل ہونے کی صورت میں ذخیرے کو برقرار رکھنے کی ضرورت کے باوجود بعض اوقات ایک ہی حملے کا مقابلہ کرنے کے لیے بڑی تعداد میں پیٹریاٹ میزائل داغے جاتے ہیں۔",
+      "english": "Roblin explained that there are reports from Ukrainian observers of Gulf Defense Monitoring indicating that large numbers of Patriot missiles are sometimes fired to counter a single attack, despite the need to maintain stockpiles in case the war is prolonged."
+    },
+    {
+      "urdu": "دفاعی نقطہ نظر سے، روبلن کا خیال ہے کہ ڈرون کا مقابلہ کرنے کے لیے کم لاگت کے طیارہ شکن ہتھیاروں کی ضرورت ہوتی ہے جیسے کہ لیزر گائیڈڈ APKWS میزائل، مختصر فاصلے کے توپ خانے پر مبنی دفاعی نظام جغرافیائی طور پر حساس علاقوں کی حفاظت کے لیے تقسیم کیے جاتے ہیں۔",
+      "english": "From a defense perspective, Roblin believes that countering drones requires low-cost anti-aircraft weapons such as laser-guided APKWS missiles, and short-range artillery-based defense systems distributed to protect geographically sensitive areas."
+    },
+    {
+      "urdu": "جہاں تک میزائل ڈیفنس کا تعلق ہے، ان کا خیال ہے کہ 'انٹرسیپٹر میزائلوں کے ذخیرے کو بھرنے، دفاعی نظام کی اضافی تہوں میں سرمایہ کاری کرنے، اور زیادہ سینسرز کو تعینات کرنے کی ضرورت ہوگی، ترجیحاً ہوائی جہاز اور شاید سیٹلائٹ پر مبنی سینسرز بھی۔'",
+      "english": "As for missile defense, he believes that 'there will be a need to replenish stockpiles of interceptor missiles, invest in additional layers of defense systems, and deploy more sensors, preferably aircraft-based and possibly satellite-based sensors as well.'"
+    },
+    {
+      "urdu": "انھوں نے مزید کہا کہ 'متبادل طاقتوں، جیسے روس اور چین، کے بھی تہران کے ساتھ قریبی تعلقات ہیں۔ جب کہ خلیجی ریاستوں نے یورپ، چین اور روس کا رخ کر کے اپنے ہتھیاروں کے ذرائع کو متنوع بنانے کی کوشش کی ہے۔'",
+      "english": "'Alternative powers, such as Russia and China, also have close relations with Tehran. Meanwhile, Gulf states have tried to diversify their weapons sources by turning to Europe, China, and Russia.'"
+    },
+    {
+      "urdu": "دانیہ ظفر کو توقع ہے کہ 'خلیجی ریاستوں کی جانب سے واشنگٹن کے ساتھ تعاون بھی جاری رہے گا۔ انھوں نے کہا کہ میرے خیال میں حالیہ واقعات کے بعد ہم خطے میں ہتھیاروں کی ایک بڑی دوڑ کے دہانے پر ہیں، اور مجھے یقین ہے کہ امریکہ خلیجی سلامتی میں ریڑھ کی ہڈی کی حیثیت رکھے گا۔'",
+      "english": "Dania Zafar expects that 'cooperation from Gulf states with Washington will also continue. She said that in my opinion, after recent events, we are on the verge of a major arms race in the region, and I am confident that the US will remain the backbone of Gulf security.'"
+    },
+    {
+      "urdu": "التھونین کا بھی خیال ہے کہ خلیجی ریاستوں اور امریکہ کے درمیان اقتصادی اور فوجی دونوں طرح کا سٹریٹیجک تعلق جاری رہے گا جب تک کہ یہ مشترکہ اور باہمی مفادات پر مبنی ہو۔",
+      "english": "Al-Thunayan also believes that the strategic relationship between Gulf states and the US, both economic and military, will continue as long as it is based on shared and mutual interests."
+    },
+    {
+      "urdu": "التھونین کا خیال ہے کہ خلیجی ریاستوں کی مستقبل کی سمت میں خلیجی فوجی انضمام کے ذریعے مزاحمتی صلاحیتوں کو مضبوط کرنا اور کسی بھی قابل اور خواہشمند بین الاقوامی شراکت دار کے تعاون سے مقامی دفاعی صنعتوں کو ترقی دینا شامل ہو گا۔",
+      "english": "Al-Thunayan believes that the future direction of Gulf states will include strengthening resistance capabilities through Gulf military integration and developing local defense industries in cooperation with any capable and willing international partner."
+    },
+    {
+      "urdu": "اس تناظر میں، یہ بات قابل غور ہے کہ یوکرین کے صدر ولادیمیر زیلینسکی نے ایک حالیہ انٹرویو میں اعلان کیا کہ امریکہ نے مشرق وسطیٰ کے ممالک میں اپنے اڈوں کے حوالے سے ان کے ملک سے رابطہ کیا ہے۔ سعودی عرب، قطر، متحدہ عرب امارات، بحرین، اردن اور کویت نے بھی ان سے رابطہ کیا تھا۔",
+      "english": "In this context, it is noteworthy that Ukrainian President Volodymyr Zelensky announced in a recent interview that the US had contacted his country regarding its bases in Middle Eastern countries. Saudi Arabia, Qatar, the UAE, Bahrain, Jordan, and Kuwait had also contacted them."
+    },
+    {
+      "urdu": "زیلنسکی نے کہا کہ 'اس سے کوئی فرق نہیں پڑتا کہ مشرق وسطیٰ میں کتنے پیٹریاٹ، THAAD، یا دیگر فضائی دفاعی نظام تعینات کیے گئے ہیں، مکمل طور پر موثر فضائی دفاع کے حصول کے لیے صرف اتنا ہی کافی نہیں ہے۔ بڑے پیمانے پر ڈرون حملوں کا مقابلہ کرنے کے لیے جدید انٹرسیپٹرز بھی بنائے گئے ہیں۔'",
+      "english": "Zelensky said, 'It doesn't matter how many Patriot, THAAD, or other air defense systems are deployed in the Middle East — that alone is not enough to achieve fully effective air defense. Modern interceptors have also been built to counter large-scale drone attacks.'"
+    },
+    {
+      "urdu": "زیلنسکی نے وضاحت کی کہ 'ان کا ملک اپنے شراکت داروں کو کوئی بھی اضافی نظام فروخت کرنے کے لیے تیار ہے۔' انھوں نے مزید کہا کہ 'ہم اپنی مہارت کا اشتراک بھی کریں گے۔ انٹرسیپٹر ڈرون یوکرین کی مہارت کے بغیر مؤثر طریقے سے کام نہیں کرتے، کیونکہ بالآخر، یہ مربوط نظام ہے۔'",
+      "english": "Zelensky explained that 'his country is ready to sell any additional systems to its partners.' He further said, 'We will also share our expertise. Interceptor drones do not work effectively without Ukraine's expertise, because ultimately, it is an integrated system.'"
+    }
+  ]
+}
