@@ -1,0 +1,359 @@
+{
+  "id": "acting-career",
+  "category": "news",
+  "title": {
+    "urdu": "پاکستان میں اداکاری کا خواب، جدوجہد، کمائی اور چمکتی سکرین کے پیچھے چھپی حقیقت",
+    "english": "The Dream of Acting in Pakistan: Struggle, Earnings, and the Reality Behind the Shining Screen"
+  },
+  "vocabulary": {
+    "شوبز انڈسٹری": "showbiz industry",
+    "سوشل میڈیا": "social media",
+    "فنون لطیفہ": "fine arts",
+    "لی سٹرزبرگ تھیٹر اینڈ فلم انسٹیٹیوٹ": "Lee Strasberg Theatre and Film Institute",
+    "رائل اکیڈمی آف ڈرامیٹک آرٹ": "Royal Academy of Dramatic Art",
+    "نیشنل اکیڈمی آف پرفارمنگ آرٹس": "National Academy of Performing Arts",
+    "بیکن ہاؤس نیشنل یونیورسٹی": "Beaconhouse National University",
+    "نیشنل کالج آف آرٹس": "National College of Arts",
+    "سکرین رائٹنگ": "screenwriting",
+    "ٹی وی چینلز": "TV channels",
+    "مستقل مزاجی": "perseverance",
+    "پرسیپشن پرابلم": "perception problem",
+    "باڈی لینگویج": "body language",
+    "فارغ التحصیل": "graduated",
+    "سپورٹنگ کردار": "supporting role",
+    "سپورٹنگ ایکٹرز": "supporting actors",
+    "مرکزی کرداروں": "lead roles",
+    "کلچرل شاک": "culture shock",
+    "منافع بخش": "profitable",
+    "پس منظر": "background",
+    "غیر رسمی": "informal",
+    "غیر معمولی": "extraordinary",
+    "انٹرٹینمنٹ": "entertainment",
+    "انفلوئنسر": "influencer",
+    "پرفارمنس": "performance",
+    "پروڈکشنز": "productions",
+    "پروڈکشن": "production",
+    "ڈائریکشن": "direction",
+    "پلیٹ فارم": "platform",
+    "اداکاری": "acting",
+    "اداکاروں": "actors",
+    "اداکار": "actor",
+    "اداکارہ": "actress",
+    "ہدایت کار": "director",
+    "ہدایتکار": "director",
+    "فنکاروں": "artists",
+    "فنکار": "artist",
+    "تربیت": "training",
+    "تربیت یافتہ": "trained",
+    "تعلیم": "education",
+    "تعلیم یافتہ": "educated",
+    "جدوجہد": "struggle",
+    "کامیابی": "success",
+    "کامیاب": "successful",
+    "مقبولیت": "popularity",
+    "مہارت": "skill/expertise",
+    "صلاحیت": "ability/talent",
+    "شہرت": "fame",
+    "معاوضہ": "compensation/fee",
+    "معاوضوں": "compensations/fees",
+    "آمدنی": "income",
+    "کمائی": "earnings",
+    "کردار": "role/character",
+    "کرداروں": "roles/characters",
+    "خواب": "dream",
+    "شعبے": "field/sector",
+    "شعبہ": "field/sector",
+    "شعبوں": "fields/sectors",
+    "پیشے": "profession",
+    "پیشہ": "profession",
+    "پیشوں": "professions",
+    "صنعت": "industry",
+    "انڈسٹری": "industry",
+    "تخلیق": "creation",
+    "ناظرین": "audience/viewers",
+    "نوجوانوں": "youth",
+    "نوجوان": "young",
+    "ستاروں": "stars",
+    "معروف": "famous/well-known",
+    "مواقع": "opportunities",
+    "موقع": "opportunity",
+    "صحافت": "journalism",
+    "صحافیوں": "journalists",
+    "تحقیق": "research",
+    "ادارے": "institutions",
+    "اداروں": "institutions",
+    "ادارہ": "institution",
+    "اساتذہ": "teachers",
+    "طالبعلموں": "students",
+    "تناظر": "perspective",
+    "ممالک": "countries",
+    "بیرونِ ملک": "abroad",
+    "فکشن": "fiction",
+    "کہانیوں": "stories",
+    "کہانیاں": "stories",
+    "ڈراموں": "dramas",
+    "ڈرامے": "drama",
+    "ڈرامہ": "drama",
+    "تھیٹر": "theatre",
+    "فلموں": "films",
+    "فلم": "film",
+    "سکرین": "screen",
+    "سیریز": "series",
+    "لاکھ": "lakh (100,000)",
+    "لاکھوں": "millions",
+    "روپے": "rupees",
+    "فیس": "fee",
+    "پرکشش": "attractive",
+    "محنت": "hard work",
+    "لگن": "dedication",
+    "صبر": "patience",
+    "جذبہ": "passion",
+    "حوصلے": "courage",
+    "مقصد": "purpose",
+    "شوق": "passion/hobby",
+    "معیار": "standard/quality",
+    "سنجیدگی": "seriousness",
+    "سنجیدہ": "serious",
+    "رائلٹی": "royalty",
+    "سہولتیں": "facilities",
+    "سہولیات": "facilities",
+    "نجی": "private",
+    "سرکاری": "government",
+    "ماہرین": "experts",
+    "طویل": "long",
+    "ابتدائی": "initial",
+    "فطری": "natural/innate",
+    "تجربہ": "experience",
+    "برقرار": "sustained/maintained",
+    "مشکل": "difficult",
+    "دلچسپ": "interesting",
+    "بہتر": "better",
+    "مثبت": "positive",
+    "مختلف": "different",
+    "باقاعدہ": "formal/regular",
+    "کیریئر": "career",
+    "گزارہ": "livelihood"
+  },
+  "paragraphs": [
+    {
+      "urdu": "لائٹس، کیمرا، ایکشن، جب ان تینوں کا ملاپ ہوتا ہے تو ایک نئی تخلیق سامنے آتی ہے اور ایک ہی لمحے میں ایک عام سا چہرہ لاکھوں دلوں کی دھڑکن بن جاتا ہے۔",
+      "english": "Lights, camera, action — when these three come together, a new creation emerges, and in a single moment, an ordinary face becomes the heartbeat of millions."
+    },
+    {
+      "urdu": "پاکستان میں اداکار بننے کا خواب بھی کچھ ایسا ہی ہے، چمکتی سکرین، مقبولیت کا جادو اور تالیوں کی گونج، لیکن اس چمک دمک کے پیچھے ایک ایسی دنیا بھی ہے جس کا حصہ بننے کے لیے کئی افراد زندگی بھر جدوجہد کرتے رہتے ہیں۔",
+      "english": "The dream of becoming an actor in Pakistan is much the same — the shining screen, the magic of popularity, and the echo of applause. But behind this glamour lies a world that many people struggle their entire lives to become part of."
+    },
+    {
+      "urdu": "جہاں سوشل میڈیا پر وائرل ہوتے کلپس اور راتوں رات شہرت پانے کی کہانیاں نوجوانوں کو اپنی طرف کھینچتی ہیں، وہیں ایک ایسا سوال بھی ہے جو لوگوں کو پریشان کرتا ہے، اور وہ یہ کہ کیا یہ پرکشش دنیا واقعی اتنی ہی منافع بخش ہے جتنی نظر آتی ہے؟",
+      "english": "While viral clips on social media and stories of overnight fame attract young people, there is also a question that troubles people: is this attractive world really as profitable as it appears?"
+    },
+    {
+      "urdu": "کیا ایک بار اداکار بننے کے بعد اداکاروں کو ہر طرف سے آفرز آنے لگتی ہیں؟ اس فیلڈ میں کامیابی کے لیے کیا قیمت چکانا پڑتی ہے؟",
+      "english": "Once someone becomes an actor, do offers start pouring in from all sides? What price must be paid for success in this field?"
+    },
+    {
+      "urdu": "پاکستانی شوبز انڈسٹری میں کامیابی کی داستانیں بھی ہیں اور خاموش جدوجہد کی کہانیاں بھی۔ کچھ لوگ باقاعدہ تربیت کے ساتھ اس میدان میں قدم رکھنے کے باوجود آج بھی جدوجہد کر رہے ہیں تو کئی ایسے بھی ہیں جو صرف اپنے خواب اور حوصلے کے سہارے آگے بڑھتے ہیں۔",
+      "english": "In Pakistan's showbiz industry, there are tales of success as well as stories of silent struggle. Some people are still struggling despite entering this field with formal training, while many others move forward relying solely on their dreams and courage."
+    },
+    {
+      "urdu": "مرکزی کرداروں میں جگمگاتے ستاروں اور پس منظر میں کام کرنے والے فنکاروں کے درمیان مواقع اور آمدنی کا فرق بھی ایک حقیقت ہے جسے نظر انداز نہیں کیا جا سکتا۔",
+      "english": "The gap in opportunities and income between stars shining in lead roles and artists working in the background is also a reality that cannot be ignored."
+    },
+    {
+      "urdu": "پاکستان میں اداکاری کی تربیت کے لیے چند ادارے موجود ہیں جن میں کراچی میں نیشنل اکیڈمی آف پرفارمنگ آرٹس اور آرٹس کونسل جب کہ لاہور میں نیشنل کالج آف آرٹس اور بیکن ہاؤس نیشنل یونیورسٹی قابل ذکر ہیں۔ ان اداروں میں صرف اداکاری ہی نہیں پڑھائی جاتی بلکہ آرٹس کے ہر پہلو پر ماہرین کی زیرِ نگرانی طالبعلموں کی تربیت کی جاتی ہے۔",
+      "english": "In Pakistan, there are a few institutions for acting training, notable among which are the National Academy of Performing Arts and the Arts Council in Karachi, and the National College of Arts and Beaconhouse National University in Lahore. These institutions do not only teach acting but also train students under the supervision of experts in every aspect of the arts."
+    },
+    {
+      "urdu": "اس وقت ٹی وی اور فلموں میں نظر آنے والے کئی افراد ایسے ہی اداروں سے فارغ التحصیل ہوئے ہیں جنھیں ان افراد نے پڑھایا جو خود بیرونِ ملک سے تعلیم حاصل کرکے آئے تھے، جیسے لیجنڈ اداکار ضیا محی الدین اور طلعت حسین۔",
+      "english": "Many of the people currently appearing on TV and in films graduated from such institutions, where they were taught by individuals who themselves had received education abroad, such as legendary actors Zia Mohyeddin and Talat Hussain."
+    },
+    {
+      "urdu": "ضیا محی الدین ہی کی ایک سٹوڈنٹ جرنلسٹ سے اداکارہ بننے والی ہانی طحہٰ ہیں جو اس وقت ٹی وی ڈراموں 'دیکھ ذرا پیار سے' اور 'میری زندگی ہے تو' میں سپورٹنگ کردار ادا کررہی ہیں اور جو اپنے مینٹور کی طرح برطانیہ کے معروف ادارے رائل اکیڈمی آف ڈرامیٹک آرٹ 'راڈا' سے تربیت حاصل کرکے واپس پاکستان آئی ہیں۔",
+      "english": "One of Zia Mohyeddin's students is Hani Taha, who went from being a journalist to becoming an actress. She is currently playing supporting roles in the TV dramas 'Dekh Zara Pyar Se' and 'Meri Zindagi Hai Tu,' and like her mentor, she returned to Pakistan after receiving training from Britain's renowned Royal Academy of Dramatic Art (RADA)."
+    },
+    {
+      "urdu": "بی بی سی اردو سے بات کرتے ہوئے  اداکارہ ہانی طحہٰ کا کہنا تھا کہ 'پاکستان میں فنون لطیفہ کے شعبوں میں باقاعدہ تعلیم کو اب بھی اتنی اہمیت نہیں دی جاتی جتنی دیگر پیشوں میں دی جاتی ہے، جب وہ بیرونِ ملک صحافت سے وابستہ تھیں تو انھیں احساس ہوا کہ پاکستان کے بارے میں دنیا میں ایک 'پرسیپشن پرابلم' موجود ہے۔'",
+      "english": "Speaking to BBC Urdu, actress Hani Taha said: 'In Pakistan, formal education in the fine arts fields is still not given as much importance as it is in other professions. When she was associated with journalism abroad, she realized that there is a \"perception problem\" about Pakistan in the world.'"
+    },
+    {
+      "urdu": "'مجھے لگا کہ فکشن اور انٹرٹینمنٹ کی زبان زیادہ لوگ سمجھتے ہیں، اس لیے میں اس میدان میں آنا چاہتی تھی تاکہ کہانیوں کے ذریعے پاکستان کا ایک مختلف پہلو دکھایا جا سکے۔'",
+      "english": "'I felt that more people understand the language of fiction and entertainment, so I wanted to enter this field in order to show a different side of Pakistan through stories.'"
+    },
+    {
+      "urdu": "وہ بتاتی ہیں کہ راڈا میں تعلیم حاصل کرنا ان کے لیے ایک غیر معمولی تجربہ تھا۔",
+      "english": "She says that studying at RADA was an extraordinary experience for her."
+    },
+    {
+      "urdu": "'میں نے یہ تعلیم کسی کو متاثر کرنے کے لیے نہیں بلکہ اپنے لیے حاصل کی۔ جب آپ کسی چیز کی باقاعدہ تربیت لیتے ہیں تو لوگ آپ کو زیادہ سنجیدگی سے لیتے ہیں۔'",
+      "english": "'I pursued this education not to impress anyone but for myself. When you receive formal training in something, people take you more seriously.'"
+    },
+    {
+      "urdu": "ان کے مطابق پاکستان میں اداکاری کے شعبے میں آنے والے بہت سے افراد باقاعدہ تعلیم حاصل نہیں کرتے۔",
+      "english": "According to her, many people entering the acting field in Pakistan do not pursue formal education."
+    },
+    {
+      "urdu": "'جب پورا شعبہ ہی تربیت یافتہ نہ ہو تو پھر آپ دوسروں سے یہ توقع نہیں کر سکتے کہ وہ اس تعلیم کی اہمیت کو سمجھیں گے۔'",
+      "english": "'When the entire field itself is not trained, then you cannot expect others to understand the importance of this education.'"
+    },
+    {
+      "urdu": "ہانی طحہٰ کا کہنا ہے کہ اداکاری سمیت کسی بھی پیشے میں مہارت حاصل کرنے کے لیے تعلیم اور تربیت اہم ہے۔",
+      "english": "Hani Taha says that education and training are important for gaining expertise in any profession, including acting."
+    },
+    {
+      "urdu": "'اگر آپ کسی کام کے بارے میں واقعی سنجیدہ ہیں تو اس کے بارے میں پڑھنا چاہیے۔ تربیت دراصل آپ کے لیے ایک شارٹ کٹ ہے جس سے لوگ آپ کو زیادہ سنجیدگی سے لیتے ہیں اور آپ کے کام کا معیار بھی بہتر ہوتا ہے۔'",
+      "english": "'If you are truly serious about something, you should study it. Training is actually a shortcut for you — it makes people take you more seriously and also improves the quality of your work.'"
+    },
+    {
+      "urdu": "ان کے مطابق تربیت یافتہ اداکار اکثر سکرین پر مختلف انداز سے نظر آتے ہیں۔",
+      "english": "According to her, trained actors often appear differently on screen."
+    },
+    {
+      "urdu": "'ٹرینڈ ایکٹر کہیں بھی کھڑا ہو، اس کی باڈی لینگویج اور پرفارمنس میں فرق نظر آتا ہے۔ جیسے ایک اچھے کھانے یا موسیقی میں فرق محسوس ہوتا ہے، ویسے ہی اچھی اداکاری بھی پہچانی جا سکتی ہے۔'",
+      "english": "'Wherever a trained actor stands, the difference in their body language and performance is visible. Just as you can feel the difference in good food or music, good acting can also be recognized.'"
+    },
+    {
+      "urdu": "حال ہی میں او ٹی ٹی پلیٹ فارم ٹیپ میڈ کی سپورٹس سیریز شمشیر میں ہاکی کھلاڑی کا کردار نبھانے والے نوجوان اداکار میکال دیوان بھی امریکہ کے لی سٹرزبرگ تھیٹر اینڈ فلم انسٹیٹیوٹ سے اداکاری کی تعلیم حاصل کر چکے ہیں۔",
+      "english": "Young actor Mikaal Dewan, who recently played the role of a hockey player in the sports series Shamsheer on OTT platform Tapmad, has also received acting education from the Lee Strasberg Theatre and Film Institute in America."
+    },
+    {
+      "urdu": "بی بی سی اردو سے بات کرتے ہوئے میکال کا کہنا تھا کہ انھیں بچپن سے ہی اداکاری کا شوق تھا، جس کو پورا کرنے کے لیے انھوں نے تھیٹر اورکمرشلز میں کام کیا۔ ان کے بقول 'جب کسی چیز کا شوق ہوتا ہے تو آپ اسے مزید بہتر انداز میں سیکھنا چاہتے ہیں۔'",
+      "english": "Speaking to BBC Urdu, Mikaal said that he had a passion for acting since childhood, and to pursue it, he worked in theatre and commercials. According to him: 'When you have a passion for something, you want to learn it in an even better way.'"
+    },
+    {
+      "urdu": "وہ بتاتے ہیں کہ انھوں نے اپنے پسندیدہ اداکاروں مارلن برانڈو اور ایل پچینو کے بارے میں تحقیق کی تو معلوم ہوا کہ بہت سے معروف اداکار اسی ادارے سے تعلیم یافتہ ہیں، جس کی وجہ سے انھوں نے بھی وہیں جانے کا فیصلہ کیا۔",
+      "english": "He says that when he researched his favourite actors Marlon Brando and Al Pacino, he discovered that many famous actors were educated at the same institute, which is why he also decided to go there."
+    },
+    {
+      "urdu": "میکال دیوان کے مطابق بیرونِ ملک تعلیم حاصل کرنے کا ایک فائدہ یہ ہے کہ وہاں مختلف ممالک کے فنکاروں اور اساتذہ سے سیکھنے کا موقع ملتا ہے۔",
+      "english": "According to Mikaal Dewan, one benefit of studying abroad is that you get the opportunity to learn from artists and teachers from different countries."
+    },
+    {
+      "urdu": "'آپ کو مختلف ممالک کے تھیٹر، فلم اور ٹی وی کے بارے میں ایک وسیع تناظر ملتا ہے۔ اس کے علاوہ آپ صرف اداکاری نہیں بلکہ ڈائریکشن، پروڈکشن اور سکرین رائٹنگ کے بارے میں بھی سیکھتے ہیں۔'",
+      "english": "'You get a broad perspective on theatre, film, and TV from different countries. Besides that, you learn not just acting but also direction, production, and screenwriting.'"
+    },
+    {
+      "urdu": "تاہم وہ کہتے ہیں کہ 'پاکستان واپس آنے کے بعد انھیں کچھ کلچرل شاک بھی لگا۔'",
+      "english": "However, he says that 'after returning to Pakistan, he also experienced some culture shock.'"
+    },
+    {
+      "urdu": "'یہاں کام کا طریقہ کافی غیر رسمی ہے اور بہت سی چیزیں وقت پر نہیں ہوتیں۔ مجھے کچھ وقت لگا کہ میں ایک مڈل گراؤنڈ تلاش کر سکوں۔'",
+      "english": "'The way of working here is quite informal and many things do not happen on time. It took me some time to find a middle ground.'"
+    },
+    {
+      "urdu": "ان کے مطابق پاکستان میں بعض اوقات اداکاروں کے انتخاب میں سوشل میڈیا کی مقبولیت بھی اہم کردار ادا کرتی ہے، لیکن طویل مدت تک کامیاب رہنے کے لیے اداکار کے پاس مہارت ہونا ضروری ہے۔",
+      "english": "According to him, in Pakistan, social media popularity sometimes plays an important role in the selection of actors, but to remain successful in the long term, an actor must have skill."
+    },
+    {
+      "urdu": "'سوشل میڈیا کی وجہ سے آپ کو ابتدائی موقع تو مل سکتا ہے، لیکن اگر آپ کے پاس صلاحیت نہیں ہے تو طویل کیریئر بنانا مشکل ہوتا ہے۔'",
+      "english": "'Social media may get you an initial opportunity, but if you do not have ability, building a long career is difficult.'"
+    },
+    {
+      "urdu": "ہدایت کار محسن طلعت کے مطابق ماضی کے مقابلے میں اب پاکستان میں اداکاری کو ایک باقاعدہ پیشے کے طور پر دیکھا جا سکتا ہے۔",
+      "english": "According to director Mohsin Talat, compared to the past, acting can now be seen as a formal profession in Pakistan."
+    },
+    {
+      "urdu": "'آج سے بیس سال پہلے شاید لوگ سمجھتے تھے کہ ڈرامہ کوئی باقاعدہ انڈسٹری نہیں ہے، لیکن اب یہ ایک مکمل صنعت بن چکی ہے۔ جیسے بچے ڈاکٹر اور انجینئر بنتے ہیں ویسے ہی اب اداکار بھی بنتے ہیں۔'",
+      "english": "'Twenty years ago, people perhaps thought that drama was not a proper industry, but now it has become a complete industry. Just as children become doctors and engineers, they now also become actors.'"
+    },
+    {
+      "urdu": "بی بی سی اردو سے بات کرتے ہوئے ان کا کہنا تھا کہ اداکار کے انتخاب میں بنیادی چیز اداکاری کی صلاحیت ہوتی ہے۔",
+      "english": "Speaking to BBC Urdu, he said that the fundamental thing in selecting an actor is acting ability."
+    },
+    {
+      "urdu": "'اگر کوئی شخص صرف انفلوئنسر ہے لیکن اچھا اداکار نہیں ہے تو وہ زیادہ عرصہ نہیں چل پاتا۔ اصل چیز اداکاری کی مہارت ہے۔'",
+      "english": "'If a person is just an influencer but not a good actor, they cannot last long. The real thing is acting expertise.'"
+    },
+    {
+      "urdu": "ادھر اداکار و ہدایت کار سیف حسن کا کہنا ہے کہ اداکاری کے شعبے میں آنے کے لیے تربیت ضروری نہیں، لیکن یہ فائدہ مند ضرور ہو سکتی ہے۔",
+      "english": "Meanwhile, actor and director Saif Hassan says that training is not necessary to enter the acting field, but it can certainly be beneficial."
+    },
+    {
+      "urdu": "'دنیا میں بہت سے بڑے اداکار ایسے ہیں جنھوں نے کہیں سے اداکاری نہیں سیکھی، لیکن ان کے اندر فطری صلاحیت تھی۔'",
+      "english": "'There are many great actors in the world who did not learn acting from anywhere, but they had natural talent.'"
+    },
+    {
+      "urdu": "وہ کہتے ہیں کہ 'پاکستان میں بھی تھیٹر سے آنے والے بہت سے اداکار کامیاب ہوئے ہیں۔'",
+      "english": "He says: 'In Pakistan too, many actors who came from theatre have been successful.'"
+    },
+    {
+      "urdu": "'بہت سے لوگ تھیٹر سے تربیت حاصل کرکے آئے ہیں جبکہ کچھ لوگ بغیر تربیت کے بھی کامیاب ہوئے ہیں۔ انڈسٹری میں دونوں طرح کے لوگ موجود ہیں۔'",
+      "english": "'Many people have come after receiving training from theatre while some have succeeded even without training. Both types of people exist in the industry.'"
+    },
+    {
+      "urdu": "تاہم ان کے مطابق اس شعبے میں کامیابی آسان نہیں ہوتی۔",
+      "english": "However, according to him, success in this field does not come easily."
+    },
+    {
+      "urdu": "سیف حسن بطور اداکار و ہدایتکار گذشتہ بیس سال سے ٹی وی انڈسٹری سے وابستہ ہیں، سرکاری ٹی وی کی بالا دستی سے لے کر نجی ٹی وی چینلز کی حکمرانی تک انھوں نے سب کچھ دیکھا ہے، پاکستان میں اداکاروں کے معاوضوں پر بات کرتے ہوئے ان کا کہنا تھا کہ جتنا کامیاب اداکار ہوتا ہے، اتنی ہی زیادہ اس کی فیس ہوتی ہے۔",
+      "english": "Saif Hassan has been associated with the TV industry for the past twenty years as an actor and director, having witnessed everything from the dominance of state TV to the reign of private TV channels. Speaking about actors' compensations in Pakistan, he said that the more successful an actor is, the higher their fee."
+    },
+    {
+      "urdu": "'بعض معروف اداکار ایک ڈرامے کے لیے تیس سے چالیس لاکھ روپے تک معاوضہ لیتے ہیں۔'",
+      "english": "'Some well-known actors charge thirty to forty lakh rupees for a single drama.'"
+    },
+    {
+      "urdu": "ان کے مطابق معاون کردار ادا کرنے والے فنکاروں کی کمائی اس سے کم ہوتی ہے۔",
+      "english": "According to him, the earnings of artists playing supporting roles are less than that."
+    },
+    {
+      "urdu": "'لیڈ سپورٹنگ کرداروں کو عموماً پندرہ سے بیس لاکھ روپے تک مل جاتے ہیں جبکہ چھوٹے کردار کرنے والوں کو اس سے کم معاوضہ ملتا ہے۔'",
+      "english": "'Lead supporting roles generally receive fifteen to twenty lakh rupees, while those playing smaller roles receive less compensation.'"
+    },
+    {
+      "urdu": "وہ کہتے ہیں کہ 'آج کل سوشل میڈیا بھی اداکاروں کے لیے آمدنی کا بڑا ذریعہ بن چکا ہے۔'",
+      "english": "He says: 'Nowadays, social media has also become a major source of income for actors.'"
+    },
+    {
+      "urdu": "'کچھ اداکار سوشل میڈیا پر ایک پوسٹ سے پانچ سے دس لاکھ روپے تک کما لیتے ہیں۔'",
+      "english": "'Some actors earn five to ten lakh rupees from a single post on social media.'"
+    },
+    {
+      "urdu": "اے آر وائی ڈیجیٹل کے ہٹ ڈرامے شیر سمیت کئی پروڈکشننز کا حصہ رہنے والے اداکار شاہ سلیم کا کہنا ہے کہ معاون کردار ادا کرنے والے فنکاروں کے لیے صرف اداکاری کے ذریعے گزارہ کرنا مشکل ہو سکتا ہے۔",
+      "english": "Actor Shah Saleem, who has been part of several productions including ARY Digital's hit drama Sher, says that it can be difficult for artists playing supporting roles to make a livelihood through acting alone."
+    },
+    {
+      "urdu": "'میرا خیال ہے کہ سپورٹنگ ایکٹرز کو جتنا معاوضہ ملنا چاہیے اتنا نہیں ملتا۔'",
+      "english": "'I believe that supporting actors do not receive as much compensation as they should.'"
+    },
+    {
+      "urdu": "وہ کہتے ہیں کہ دیگر ممالک میں فنکاروں کو رائلٹی اور دیگر سہولتیں بھی دی جاتی ہیں لیکن پاکستان میں ان چیزوں کی کمی ہے، جب یہ سہولیات معاون اداکاروں کو ملیں گی تب ہی ان کے حالات بہتر ہوں گے۔",
+      "english": "He says that in other countries, artists are also given royalties and other facilities, but Pakistan lacks these things. Only when supporting actors receive these facilities will their conditions improve."
+    },
+    {
+      "urdu": "ان کے مطابق اس شعبے میں آنے والوں کے لیے سب سے اہم چیز لگن اور محنت ہے۔",
+      "english": "According to him, the most important thing for those entering this field is dedication and hard work."
+    },
+    {
+      "urdu": "'اگر آپ کو لگتا ہے کہ آپ کے اندر اس کام کا شوق اور صلاحیت ہے تو بلا جھجھک اس میدان میں آئیں۔ محنت کریں تو ایک دن موقع ضرور ملتا ہے۔'",
+      "english": "'If you feel that you have the passion and ability for this work, then come into this field without hesitation. If you work hard, you will surely get an opportunity one day.'"
+    },
+    {
+      "urdu": "اداکار میکال دیوان کے مطابق ابتدائی مواقع تو بہت سے لوگوں کو مل جاتے ہیں، لیکن کامیابی برقرار رکھنے کے لیے مہارت ضروری ہے۔",
+      "english": "According to actor Mikaal Dewan, many people get initial opportunities, but skill is essential to sustain success."
+    },
+    {
+      "urdu": "'کچھ لوگ اچانک اس انڈسٹری میں آ جاتے ہیں اور چند ڈراموں کے بعد غائب ہو جاتے ہیں، جبکہ کچھ لوگ طویل عرصے تک کام کرتے رہتے ہیں، اصل فرق مہارت اور مستقل مزاجی کا ہوتا ہے۔'",
+      "english": "'Some people suddenly enter this industry and disappear after a few dramas, while some people continue working for a long time. The real difference comes down to skill and perseverance.'"
+    },
+    {
+      "urdu": "ہدایت کار سیف حسن کے مطابق ناظرین بھی اچھے اداکار کو پہچان لیتے ہیں۔",
+      "english": "According to director Saif Hassan, audiences also recognize a good actor."
+    },
+    {
+      "urdu": "'پاکستانی ناظرین اچھی اداکاری کو سمجھتے ہیں، خاص طور پر نئی نسل۔ اگر آپ اچھا کام کریں گے تو آپ کو مواقع ملنے کے امکانات بڑھ جاتے ہیں۔'",
+      "english": "'Pakistani audiences understand good acting, especially the new generation. If you do good work, the chances of getting opportunities increase.'"
+    },
+    {
+      "urdu": "اس سوال کے جواب میں شاہ سلیم کہتے ہیں کہ اگر کسی کے اندر جذبہ اور مقصد ہے تو اسے ضرور کوشش کرنی چاہیے۔",
+      "english": "In response to this question, Shah Saleem says that if someone has passion and purpose, they should definitely try."
+    },
+    {
+      "urdu": "'اگر آپ سمجھتے ہیں کہ آپ اس میدان میں کچھ اچھا کر سکتے ہیں اور لوگوں تک مثبت پیغام پہنچا سکتے ہیں تو ضرور آئیں۔'",
+      "english": "'If you believe that you can do something good in this field and deliver a positive message to people, then do come.'"
+    },
+    {
+      "urdu": "ان کے مطابق اداکاری ایک مشکل مگر دلچسپ پیشہ ہے جس میں کامیابی کے لیے صبر اور مستقل مزاجی ضروری ہے۔",
+      "english": "According to him, acting is a difficult but interesting profession in which patience and perseverance are essential for success."
+    }
+  ]
+}
